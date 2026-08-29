@@ -1,0 +1,1627 @@
+Order ID,Date,Customer,Product,Category,Quantity,Price,Unit Cost,Discount %,Region,Channel
+1001,2026-06-27,C613,Backpack,Accessories,2,1450,690,0.05,Madurai,Web
+1001,2026-06-27,C613,Smartwatch,Electronics,2,7970,5920,0.2,madurai ,Web
+1002,2026-02-21,C550,Phone,Electronics,2,20140,14810,0.3,Chennai,Web
+1003,2026-03-12,C041,Study Table,Furniture,1,5930,3290,0.05,Bengaluru,Web
+1004,2026-03-31,C536,Phone,Electronics,1,20170,14760,0.3,Chennai,Web
+1005,2025-11-28,C367,Smartwatch,Electronics,1,7990,5850,0.3,Hyderabad,Web
+1005,2025-11-28,C367,Sunglasses,Accessories,4,1340,600,0.1,Hyderabad,Web
+1006,2025-10-14,C014,Formal Shirt,Apparel,3,1370,600,0.05,Madurai,Mobile App
+1007,2025-10-31,C033,Saree,Apparel,2,3600,1650,0.05,Salem,Mobile App
+1007,2025-10-31,C033,Bluetooth Speaker,Electronics,3,3500,2440,0.3,Salem,Mobile App
+1008,2025-09-13,C059,Smartwatch,Electronics,1,8210,5910,0.0,Chennai,Web
+1008,2025-09-13,C059,Kurta,Apparel,4,1180,520,0.2,Chennai,Web
+1009,2025-09-13,C333,Phone,Electronics,1,20590,14930,0.05,Bengaluru,Web
+1010,2026-07-20,C146,T-Shirt,Apparel,1,710,320,0.1,Chennai,Mobile App
+1010,2026-07-20,C146,Smartwatch,Electronics,1,7930,5550,0.3,Chennai,Mobile App
+1011,2025-09-09,C577,Laptop,Electronics,1,51650,37640,0.0,Chennai,Mobile App
+1011,2025-09-09,C577,Smartwatch,Electronics,3,8200,5810,0.2,Chennai,Mobile App
+1012,2025-12-28,C227,Smartwatch,Electronics,2,7980,5830,0.1,Coimbatore,Web
+1013,2025-10-07,C220,Kurta,Apparel,3,1190,530,0.1,Chennai,Mobile App
+1014,2025-10-08,C556,Bluetooth Speaker,Electronics,3,3400,2500,0.25,Chennai,Web
+1014,2025-10-08,C556,Mixer Grinder,Home & Kitchen,2,4320,2700,0.3,Chennai,Web
+1014,2025-10-08,C556,Jeans,Apparel,2,1810,810,0.25,Chennai,Web
+1015,2026-04-18,C430,Power Bank,Electronics,3,1490,1030,0.15,Madurai,Mobile App
+1016,2025-10-26,C597,Office Chair,Furniture,1,7670,4480,0.15,Coimbatore,Mobile App
+1017,2026-07-01,C433,Phone,Electronics,1,19360,13510,0.25,Chennai,Mobile App
+1017,2026-07-01,C433,Saree,Apparel,1,3410,1540,0.0,Chennai,Mobile App
+1018,2025-12-05,C113,Jeans,Apparel,1,1780,760,0.25,Madurai,Mobile App
+1019,2026-01-22,C153,Wallet,Accessories,2,770,390,0.25,Salem,Mobile App
+1020,2025-12-14,C385,T-Shirt,Apparel,2,680,290,0.15,Chennai,Web
+1021,2026-07-25,C637,Pressure Cooker,Home & Kitchen,2,1640,1050,0.0,Salem,Mobile App
+1022,2026-04-11,C440,Saree,Apparel,2,3410,1550,0.2,Hyderabad,Web
+1022,2026-04-11,C440,Saree,Apparel,2,3410,1550,0.2,Hyderabad,Web
+1023,2025-10-04,C534,Power Bank,Electronics,1,1560,1110,0.1,Bengaluru,Mobile App
+1024,2025-12-11,C443,Kurta,Apparel,3,1170,530,0.05,Chennai,Web
+1025,2026-05-03,C138,Headphones,Electronics,3,2520,1760,0.1,Trichy,Web
+1026,2025-11-18,C561,Headphones,Electronics,1,2580,1930,0.3,Bengaluru,Mobile App
+1027,2025-12-06,C102,Laptop,Electronics,1,51510,36330,0.0,Chennai,Web
+1027,2025-12-06,C102,Sunglasses,Accessories,3,1290,600,0.0,Chennai,Web
+1027,2025-12-06,C102,Pressure Cooker,Home & Kitchen,1,1610,1000,0.15,Chennai,Web
+1028,2026-08-28,C533,Laptop,Electronics,1,50760,36290,0.15,Chennai,Mobile App
+1029,2026-01-25,C414,Water Purifier,Home & Kitchen,1,11650,7690,0.2,Salem,Web
+1029,2026-01-25,C414,Microwave,Home & Kitchen,1,9350,6070,0.05,Salem,Web
+1030,2025-10-10,C566,Phone,Electronics,1,19520,13780,0.1,Madurai,Web
+1031,2026-05-07,C519,Bed Frame,Furniture,1,17580,10300,0.0,Salem,Web
+1032,2026-04-25,C451,Smart TV,Electronics,2,34320,24160,0.1,Hyderabad,Mobile App
+1032,2026-04-25,C451,Mixer Grinder,Home & Kitchen,2,4080,2510,0.2,Hyderabad,Mobile App
+1033,2026-01-18,C393,Laptop,Electronics,1,49160,36280,0.2,Coimbatore,Web
+1034,2025-10-05,C544,Kurta,Apparel,2,1220,510,0.15,Kochi,Mobile App
+1035,2026-04-05,C512,Formal Shirt,Apparel,5,1360,590,0.05,Bengaluru ,Mobile App
+1036,2025-12-15,C555,Wallet,Accessories,3,780,370,0.2,Coimbatore,Mobile App
+1036,2025-12-15,C555,Mixer Grinder,Home & Kitchen,2,4300,2650,0.0,Coimbatore,Mobile App
+1037,2026-04-27,C018,Headphones,Electronics,3,2410,1760,0.3,Salem,Web
+1038,2025-10-13,C351,Power Bank,Electronics,1,1450,1020,0.25, Madurai,Mobile App
+1039,2026-04-27,C608,Bookshelf,Furniture,1,4670,2660,0.1,Salem,Mobile App
+1040,05-05-2026,C073,Smartwatch,Electronics,1,7900,5770,0.25,Madurai,Web
+1041,2026-03-10,C367,Mixer Grinder,Home & Kitchen,3,4080,2700,0.25,Hyderabad,Mobile App
+1042,2025-10-01,C314,Belt,Accessories,3,580,270,0.1,Chennai,Mobile App
+1043,2025-11-05,C618,Mixer Grinder,Home & Kitchen,2,4070,2580,0.0,Chennai,Mobile App
+1043,2025-11-05,C618,Sofa Set,Furniture,1,32910,18330,0.15,Chennai,Mobile App
+1044,2025-10-04,C156,Bluetooth Speaker,Electronics,2,3500,2460,0.3,Bengaluru,Mobile App
+1044,2025-10-04,C156,Bluetooth Speaker,Electronics,2,3500,2460,0.3,Bengaluru,Mobile App
+1045,2025-12-07,C391,Wardrobe,Furniture,1,22110,12540,0.1,Chennai,Web
+1045,2025-12-07,C391,Wardrobe,Furniture,1,22110,12540,0.1,Chennai,Web
+1046,2026-05-11,C130,Tablet,Electronics,3,17770,13150,0.1,Chennai,Web
+1046,2026-05-11,C130,Office Chair,Furniture,1,7620,4060,0.0,Chennai,Web
+1047,2026-05-11,C433,Water Purifier,Home & Kitchen,1,11700,7790,0.1,Chennai,Mobile App
+1048,2026-06-05,C542,Power Bank,Electronics,2,1550,1150,0.25,Bengaluru,Mobile App
+1049,2026-01-10,C324,Phone,Electronics,1,20000,14440,0.3,Madurai,Mobile App
+1049,2026-01-10,C324,Bookshelf,Furniture,1,4580,2460,0.1,Madurai,Mobile App
+1049,2026-01-10,C324,Kurta,Apparel,5,1200,530,0.0,Madurai,Mobile App
+1050,2026-07-16,C252,Phone Case,Accessories,1,410,200,0.3,Bengaluru,Mobile App
+1051,2026-08-18,C585,Power Bank,Electronics,1,1520,1120,0.2,Bengaluru,Mobile App
+1052,2026-07-07,C425,Microwave,Home & Kitchen,1,9270,6000,0.05,Chennai,Mobile App
+1052,2026-07-07,C425,Cookware Set,Home & Kitchen,4,2910,1890,0.1,Chennai,Mobile App
+1053,2025-11-26,C079,Bed Frame,Furniture,1,18100,10320,0.2,Bengaluru,Web
+1054,2026-06-29,C297,Phone,Electronics,1,20400,14270,0.05,Trichy,Web
+1054,2026-06-29,C297,Formal Shirt,Apparel,1,1400,580,0.15,Trichy,Web
+1055,2026-06-28,C547,Jacket,Apparel,1,2700,1240,0.25,Madurai,Mobile App
+1056,2026-05-20,C402,Mixer Grinder,Home & Kitchen,4,4340,2750,0.3,Madurai,Mobile App
+1056,2026-05-20,C402,Study Table,Furniture,3,5870,3390,0.0,Madurai,Mobile App
+1057,2025-11-23,C550,Smartwatch,Electronics,2,8080,5950,0.25,Chennai,Mobile App
+1058,2026-07-27,C149,Jacket,Apparel,2,2810,1250,0.3,Hyderabad,Mobile App
+1059,2025-11-19,C550,Study Table,Furniture,1,5820,3290,0.05,Chennai,Web
+1059,2025-11-19,C550,Phone,Electronics,1,19480,14040,0.15,Chennai,Web
+1060,2026-05-09,C421,Bluetooth Speaker,Electronics,2,3370,2510,0.2,Bengaluru,Web
+1061,2026-02-03,C544,Jeans,Apparel,1,1770,750,0.0,Kochi,Mobile App
+1062,2026-02-11,C386,Smart TV,Electronics,1,34220,24050,0.1,Madurai,Web
+1063,2025-11-01,C224,Phone Case,Accessories,1,410,210,0.2,Coimbatore,Mobile App
+1064,2026-01-07,C019,Microwave,Home & Kitchen,1,9850,6410,0.25,Madurai,Mobile App
+1065,2026-08-09,C289,Smartwatch,Electronics,1,8260,6110,0.25,Salem,Web
+1066,2026-01-07,C286,Phone,Electronics,1,20020,14950,0.3,Hyderabad,Web
+1066,2026-01-07,C286,Study Table,Furniture,2,5760,3080,0.15,Hyderabad,Web
+1067,2026-07-09,C013,Study Table,Furniture,2,6100,3590,0.1,Chennai,Web
+1068,2026-08-07,C240,Wardrobe,Furniture,1,21700,11610,0.15, Chennai,Mobile App
+1069,2026-03-10,C275,Smartwatch,Electronics,1,7930,5770,0.0,Bengaluru,Mobile App
+1070,2026-04-25,C204,Microwave,Home & Kitchen,2,9690,6250,0.0,Bengaluru,Mobile App
+1071,2026-08-02,C356,Mixer Grinder,Home & Kitchen,1,4190,2690,0.1,Chennai,Web
+1071,2026-08-02,C356,Bluetooth Speaker,Electronics,1,3380,2490,0.1,Chennai,Web
+1072,2026-06-11,C489,Laptop,Electronics,2,50390,36390,0.1,Trichy,Mobile App
+1072,2026-06-11,C489,Headphones,Electronics,2,2590,1870,0.0,Trichy,Mobile App
+1072,2026-06-11,C489,Phone,Electronics,1,20280,15110,0.2,Trichy,Mobile App
+1073,2026-05-23,C069,Power Bank,Electronics,1,1520,1100,0.05,Salem,Mobile App
+1074,2026-06-27,C423,Jeans,Apparel,4,1850,850,0.3,Bengaluru,Web
+1075,2026-01-17,C094,Smart TV,Electronics,1,33870,24840,0.1,Madurai,Mobile App
+1076,2025-10-12,C008,Microwave,Home & Kitchen,1,9800,6160,0.2,Bengaluru,Mobile App
+1077,2025-11-22,C548,Headphones,Electronics,1,2460,1760,0.15,Trichy,Mobile App
+1078,2025-11-02,C224,Kurta,Apparel,4,1160,530,0.15,Coimbatore,Mobile App
+1079,2025-12-06,C185,Phone,Electronics,1,20170,14940,0.05,Bengaluru,Web
+1080,2026-03-01,C172,Bookshelf,Furniture,3,4470,2530,0.1,Chennai,Web
+1080,2026-03-01,C172,Smart TV,Electronics,1,33810,23370,0.0,Chennai,Web
+1081,2026-03-04,C377,Jeans,Apparel,2,1780,750,0.2,Coimbatore,Mobile App
+1082,2025-11-18,C598,Power Bank,Electronics,3,1500,1090,0.25,Bengaluru,Mobile App
+1083,2026-04-03,C473,Sofa Set,Furniture,1,31180,18300,0.3,Madurai,Web
+1084,2026-05-18,C374,Tablet,Electronics,1,17980,12470,0.0,Salem,Mobile App
+1085,2025-10-30,C479,Wardrobe,Furniture,2,21920,11680,0.05,Bengaluru,Mobile App
+1086,2026-05-07,C325,Kurta,Apparel,1,1180,520,0.15,Chennai,Mobile App
+1086,2026-05-07,C325,Headphones,Electronics,2,2530,1870,0.1,Chennai,Mobile App
+1087,2026-07-25,C339,T-Shirt,Apparel,3,700,310,0.1,Kochi,Mobile App
+1088,2025-10-15,C470,Mixer Grinder,Home & Kitchen,1,4100,2550,0.2,,Web
+1089,2025-10-10,C347,Kurta,Apparel,2,1150,470,0.05,Chennai,Web
+1089,2025-10-10,C347,Pressure Cooker,Home & Kitchen,1,1600,1020,0.05,Chennai,Web
+1090,2026-04-08,C594,Laptop,Electronics,2,49030,34360,0.15,Chennai,Web
+1091,2026-03-12,C100,T-Shirt,Apparel,3,680,310,0.2,Chennai,Web
+1091,2026-03-12,C100,Mixer Grinder,Home & Kitchen,1,4130,2540,0.3,Chennai,Web
+1092,2026-06-21,C166,Smartwatch,Electronics,1,8140,5780,0.15,Madurai,Web
+1093,2025-11-04,C405,Tablet,Electronics,1,18520,13340,0.05,Hyderabad,Web
+1094,2025-10-05,C051,Laptop,Electronics,1,51140,36830,0.2,Bengaluru,Mobile App
+1095,2025-10-13,C352,Backpack,Accessories,2,1530,750,0.1,Chennai,Mobile App
+1095,2025-10-13,C352,Laptop,Electronics,1,50120,35270,0.25,Chennai,Mobile App
+1096,2025-12-14,C105,Tablet,Electronics,1,18520,13090,0.1,Bengaluru,Mobile App
+1096,2025-12-14,C105,Saree,Apparel,1,3560,1480,0.1,Bengaluru,Mobile App
+1097,2025-10-26,C249,Bluetooth Speaker,Electronics,2,3460,2420,0.15,Kochi,Mobile App
+1097,2025-10-26,C249,Bookshelf,Furniture,2,4360,2310,0.2,Kochi,Mobile App
+1098,2026-07-05,C315,Smartwatch,Electronics,1,8120,5970,0.25,Coimbatore,Web
+1099,2026-01-29,C564,Smartwatch,Electronics,2,7880,5600,0.2,Kochi,Web
+1100,2026-07-05,C002,Headphones,Electronics,2,2510,1840,0.05,Salem,Mobile App
+1100,2026-07-05,C002,Sofa Set,Furniture,1,32510,17550,0.05,Salem,Mobile App
+1101,2026-08-16,C390,Phone,Electronics,1,20680,14810,0.05,Chennai,Web
+1102,2025-10-02,C475,Phone Case,Accessories,3,400,190,0.15,Hyderabad,Web
+1103,2026-08-09,C365,Sofa Set,Furniture,1,31240,17790,0.0,Madurai,Mobile App
+1104,2025-09-14,C012,Tablet,Electronics,1,17520,12130,0.0,Coimbatore,Mobile App
+1105,2025-10-19,C252,Headphones,Electronics,2,2480,1800,0.25,Bengaluru,Mobile App
+1105,2025-10-19,C252,Smart TV,Electronics,1,33850,23930,0.3,Bengaluru,Mobile App
+1106,2025-12-03,C113,Water Purifier,Home & Kitchen,1,11710,7800,0.05,Madurai,Mobile App
+1107,2025-12-22,C308,Smartwatch,Electronics,3,8290,6120,0.25,Chennai,Web
+1108,2026-06-18,C167,Belt,Accessories,3,600,300,0.3,Coimbatore,Mobile App
+1108,2026-06-18,C167,Wardrobe,Furniture,1,21930,12400,0.0,Coimbatore,Mobile App
+1109,2025-09-28,C299,Laptop,Electronics,1,51330,36180,0.2,Coimbatore,Mobile App
+1109,2025-09-28,C299,Cookware Set,Home & Kitchen,4,2740,1720,0.1,Coimbatore  ,Mobile App
+1109,2025-09-28,C299,Formal Shirt,Apparel,2,1350,630,0.1,Coimbatore,Mobile App
+1110,2026-07-20,C557,Phone,Electronics,1,19370,14430,0.2,Trichy,Web
+1110,2026-07-20,C557,T-Shirt,Apparel,1,680,290,0.15,Trichy,Web
+1110,2026-07-20,C557,Cookware Set,Home & Kitchen,1,2890,1850,0.2,trichy ,Web
+1111,2026-04-03,C331,Laptop,Electronics,1,49930,36310,0.3,Salem,Mobile App
+1112,2026-07-21,C105,Phone Case,Accessories,1,410,190,0.1,Bengaluru,Mobile App
+1113,2025-09-22,C198,Study Table,Furniture,2,6000,3320,0.0,Coimbatore,Mobile App
+1114,2026-08-21,C589,Cookware Set,Home & Kitchen,2,2690,1670,0.05,Chennai,Mobile App
+1115,2026-04-02,C428,Tablet,Electronics,1,17960,13050,0.15,Trichy,Web
+1116,2025-10-31,C218,T-Shirt,Apparel,1,690,290,0.2,Salem,Mobile App
+1117,2025-11-03,C584,Tablet,Electronics,1,17900,12760,0.3,Bengaluru,Web
+1118,2025-10-17,C591,Office Chair,Furniture,1,7800,4530,0.2,Madurai,Mobile App
+1119,2026-06-06,C014,Bookshelf,Furniture,1,4460,2550,0.15,Madurai,Web
+1120,2026-01-26,C445,Headphones,Electronics,4,2470,1790,0.05,Chennai,Mobile App
+1121,2025-09-09,C243,Jeans,Apparel,2,1780,800,0.2,Hyderabad,Web
+1121,2025-09-09,C243,Belt,Accessories,3,590,290,0.0,Hyderabad,Web
+1122,2026-07-19,C597,Microwave,Home & Kitchen,2,9230,5720,0.05,Coimbatore,Web
+1123,2026-04-09,C592,Smart TV,Electronics,1,34050,23960,0.1,Hyderabad,Mobile App
+1123,2026-04-09,C592,Smartwatch,Electronics,1,8090,5710,0.25,Hyderabad,Mobile App
+1123,2026-04-09,C592,Smartwatch,Electronics,1,8090,5710,0.25,Hyderabad,Mobile App
+1124,2025-12-07,C597,Smart TV,Electronics,1,36060,26070,0.1,Coimbatore,Mobile App
+1124,2025-12-07,C597,Power Bank,Electronics,3,1460,1010,0.2,Coimbatore,Mobile App
+1124,2025-12-07,C597,Laptop Sleeve,Accessories,1,910,410,0.0,Coimbatore,Mobile App
+1125,2026-05-29,C385,Phone,Electronics,1,20250,15050,0.05,Chennai,Web
+1126,2025-11-17,C048,Kurta,Apparel,4,1150,520,0.1,Bengaluru,Mobile App
+1127,2026-01-25,C485,Smartwatch,Electronics,2,7960,5960,0.05,Chennai,Mobile App
+1128,2026-03-27,C295,Study Table,Furniture,1,6010,3420,0.05,Trichy,Mobile App
+1129,2026-03-02,C215,Headphones,Electronics,1,2450,1740,0.25,Salem,Mobile App
+1130,2026-07-02,C578,Laptop,Electronics,1,51690,38600,0.0,Salem,Web
+1131,2025-12-30,C041,Laptop,Electronics,1,49490,35370,0.1,Bengaluru,Web
+1132,2025-10-20,C495,Headphones,Electronics,1,2450,1750,0.25,Chennai,Mobile App
+1133,2026-07-26,C448,Smartwatch,Electronics,1,8160,6030,0.25,Salem,Mobile App
+1133,2026-07-26,C448,Phone,Electronics,1,19660,14320,0.05,Salem,Mobile App
+1134,2026-04-06,C417,Laptop,Electronics,1,50140,35160,0.05,Trichy,Web
+1135,2026-05-11,C476,Phone,Electronics,1,19990,14200,0.25,Chennai,Mobile App
+1136,2026-08-29,C640,Smart TV,Electronics,1,34920,24500,0.25,Coimbatore,Mobile App
+1136,2026-08-29,C640,Bluetooth Speaker,Electronics,1,3600,2690,0.25,Coimbatore,Mobile App
+1137,2026-06-24,C004,Smartwatch,Electronics,2,8170,5850,0.0,Chennai,Web
+1137,2026-06-24,C004,Wardrobe,Furniture,2,22480,12620,0.05,Chennai,Web
+1138,2026-04-28,C321,Microwave,Home & Kitchen,1,9150,6100,0.05,Hyderabad,Web
+1139,2026-04-12,C592,Phone,Electronics,1,19640,13690,0.0,Hyderabad,Web
+1139,2026-04-12,C592,T-Shirt,Apparel,3,680,280,0.05,Hyderabad,Web
+1140,2025-09-18,C457,Water Purifier,Home & Kitchen,1,11880,7310,0.0,Chennai,Mobile App
+1141,2026-04-04,C280,Phone,Electronics,1,19570,14660,0.25,Coimbatore,Mobile App
+1141,2026-04-04,C280,Microwave,Home & Kitchen,2,9170,5950,0.2,Coimbatore,Mobile App
+1141,2026-04-04,C280,Jeans,Apparel,2,1790,750,0.1,Coimbatore,Mobile App
+1142,2025-10-14,C383,Sofa Set,Furniture,1,31470,18000,0.0,Coimbatore,Mobile App
+1143,2025-12-02,C048,Formal Shirt,Apparel,1,1450,640,0.0,Bengaluru,Mobile App
+1144,2025-11-20,C605,Laptop,Electronics,1,50550,36030,0.0,Salem,Web
+1145,2026-07-05,C051,Pressure Cooker,Home & Kitchen,1,1620,1040,0.1,Bengaluru,Mobile App
+1146,2026-02-07,C133,Bluetooth Speaker,Electronics,2,3540,2470,0.0,Chennai,Mobile App
+1147,2026-06-27,C438,Mixer Grinder,Home & Kitchen,1,4210,2750,0.05,Coimbatore,Web
+1147,2026-06-27,C438,Tablet,Electronics,1,17980,12510,0.25,Coimbatore,Web
+1148,2026-03-30,C379,Smart TV,Electronics,1,35160,26240,0.1,Hyderabad,Web
+1148,2026-03-30,C379,Tablet,Electronics,1,17990,13370,0.25,Hyderabad,Web
+1148,2026-03-30,C379,Dinner Set,Home & Kitchen,1,1950,1220,0.0,Hyderabad,Web
+1149,2025-11-22,C284,Smart TV,Electronics,1,35630,25720,0.2,,Mobile App
+1149,2025-11-22,C284,Smartwatch,Electronics,2,8080,5660,0.15,,Mobile App
+1149,2025-11-22,C284,Phone,Electronics,1,20220,14390,0.25,,Mobile App
+1150,2026-07-16,C235,Power Bank,Electronics,5,1480,1040,0.15,Bengaluru,Web
+1151,2025-12-04,C103,Smartwatch,Electronics,1,8300,5950,0.2,Kochi,Web
+1151,2025-12-04,C103,Water Purifier,Home & Kitchen,2,12060,7510,0.3,Kochi,Web
+1151,2025-12-04,C103,Bluetooth Speaker,Electronics,1,3460,2550,0.2,Kochi,Web
+1152,2026-08-23,C599,Phone Case,Accessories,1,390,180,0.2,Madurai,Mobile App
+1153,2025-09-09,C303,Smartwatch,Electronics,3,8030,5810,0.05,Coimbatore,Mobile App
+1153,2025-09-09,C303,Laptop,Electronics,1,49420,34510,0.15,Coimbatore,Mobile App
+1154,2025-11-05,C315,Power Bank,Electronics,2,1550,1140,0.25,Coimbatore,Mobile App
+1155,2025-10-22,C431,Bookshelf,Furniture,1,4650,2630,0.2,Chennai,Mobile App
+1156,2025-10-02,C059,Tablet,Electronics,1,18220,13230,0.25,Chennai,Web
+1156,2025-10-02,C059,Headphones,Electronics,3,2560,1830,0.3,Chennai,Web
+1157,2025-12-14,C497,Study Table,Furniture,1,5830,3270,0.0,Bengaluru,Web
+1158,2026-05-17,C176,Water Purifier,Home & Kitchen,1,12000,7480,0.1,Madurai,Web
+1159,2025-10-13,C513,Laptop,Electronics,1,49600,34480,0.25,Chennai,Web
+1160,2025-10-13,C128,Bed Frame,Furniture,1,18220,9870,0.2,Chennai,Web
+1161,2025-11-08,C313,Headphones,Electronics,1,2460,1790,0.15,Chennai,Web
+1161,2025-11-08,C313,Bluetooth Speaker,Electronics,2,3620,2520,0.15,Chennai,Web
+1162,2026-08-25,C014,Wallet,Accessories,4,830,420,0.0,Madurai,Mobile App
+1162,2026-08-25,C014,Headphones,Electronics,1,2550,1890,0.0,Madurai,Mobile App
+1162,2026-08-25,C014,Sofa Set,Furniture,1,31090,16560,0.0,Madurai,Mobile App
+1163,2026-05-03,C355,Laptop,Electronics,1,48840,35280,0.15,Chennai,Web
+1164,2025-11-11,C205,Phone,Electronics,1,20320,14040,0.25,Trichy,Mobile App
+1164,2025-11-11,C205,Laptop,Electronics,1,48680,34420,0.2,Trichy,Mobile App
+1165,2025-09-22,C372,Headphones,Electronics,2,2450,1820,0.25,salem,Mobile App
+1166,2025-09-08,C223,Tablet,Electronics,1,17830,13350,0.1,Chennai,Mobile App
+1167,2026-07-10,C314,Office Chair,Furniture,1,7470,4370,0.0,Chennai,Mobile App
+1168,2026-02-25,C516,Phone,Electronics,1,19750,14040,0.05,Madurai,Web
+1169,2026-08-22,C102,Study Table,Furniture,3,5890,3180,0.1,Chennai,Mobile App
+1169,2026-08-22,C102,Microwave,Home & Kitchen,2,9790,6490,0.0,Chennai,Mobile App
+1170,2025-10-04,C526,Microwave,Home & Kitchen,1,9600,5990,0.05,Chennai,Web
+1170,2025-10-04,C526,Phone,Electronics,1,20070,14810,0.15,Chennai,Web
+1170,2025-10-04,C526,Belt,Accessories,2,620,290,0.05,Chennai,Web
+1171,2026-05-07,C162,Phone Case,Accessories,5,420,190,0.25,Trichy,Mobile App
+1172,2025-11-25,C420,Phone,Electronics,1,19710,14640,0.25,Madurai,Mobile App
+1172,2025-11-25,C420,T-Shirt,Apparel,2,700,300,0.3,Madurai,Mobile App
+1172,2025-11-25,C420,Phone,Electronics,1,19710,14640,0.25,Madurai,Mobile App
+1172,2025-11-25,C420,Backpack,Accessories,2,1550,720,0.0,Madurai,Mobile App
+1173,2025-10-25,C116,Smartwatch,Electronics,1,8040,5660,0.25,Coimbatore,Mobile App
+1174,2025-12-06,C389,Office Chair,Furniture,1,7560,4330,0.2,hyderabad ,Mobile App
+1175,2026-02-03,C058,Laptop,Electronics,1,51060,35280,0.1,Salem,Web
+1176,2026-05-21,C108,Smart TV,Electronics,1,36200,27120,0.15,Chennai,Mobile App
+1176,2026-05-21,C108,Bluetooth Speaker,Electronics,1,3490,2460,0.0,Chennai,Mobile App
+1177,2026-05-18,C409,Microwave,Home & Kitchen,1,9680,6250,0.25,Chennai,Web
+1178,2026-06-07,C528,Formal Shirt,Apparel,2,1350,630,0.1,Coimbatore,Mobile App
+1179,2026-05-18,C427,Microwave,Home & Kitchen,1,9160,5750,0.05,Bengaluru,Mobile App
+1180,2026-06-24,C106,Microwave,Home & Kitchen,1,9160,5870,0.2,Coimbatore,Mobile App
+1181,2026-01-11,C500,Jeans,Apparel,1,1860,840,0.1,Hyderabad,Mobile App
+1182,2026-01-11,C176,Pressure Cooker,Home & Kitchen,1,1560,990,0.15,Madurai,Web
+1183,2026-07-25,C576,Headphones,Electronics,4,2560,1840,0.1,Kochi,Mobile App
+1183,2026-07-25,C576,Phone,Electronics,1,19380,13890,0.15,Kochi,Mobile App
+1184,2025-12-14,C201,Bookshelf,Furniture,3,4560,2460,0.0,Chennai,Mobile App
+1184,2025-12-14,C201,Dinner Set,Home & Kitchen,2,1890,1190,0.1,Chennai,Mobile App
+1185,2026-04-07,C478,Tablet,Electronics,1,18180,12820,0.25,Bengaluru,Web
+1186,2026-03-04,C478,Water Purifier,Home & Kitchen,1,11750,7550,0.1,Bengaluru,Web
+1186,2026-03-04,C478,Tablet,Electronics,1,18130,13030,0.0,Bengaluru,Web
+1187,2026-06-23,C502,Mixer Grinder,Home & Kitchen,2,4040,2670,0.25,Salem,Web
+1188,2025-11-20,C022,Power Bank,Electronics,3,1460,1070,0.25,Chennai,Mobile App
+1189,2026-03-26,C560,Wardrobe,Furniture,1,22140,12970,0.0,Chennai,Mobile App
+1190,2025-12-09,C169,Sofa Set,Furniture,1,32130,17590,0.1,Coimbatore,Web
+1191,2025-11-15,C427,Dinner Set,Home & Kitchen,2,1920,1180,0.2,Bengaluru,Mobile App
+1192,2026-08-25,C204,Laptop Sleeve,Accessories,3,940,440,0.05,Bengaluru,Mobile App
+1192,2026-08-25,C204,Office Chair,Furniture,1,7800,4300,0.1,Bengaluru,Mobile App
+1193,2026-02-19,C056,Phone,Electronics,2,20180,14780,0.0,Chennai,Mobile App
+1194,2025-09-10,C537,Kurta,Apparel,2,1230,580,0.05,Trichy,Mobile App
+1195,2026-03-11,C349,Tablet,Electronics,1,17690,13040,0.15,Coimbatore,Mobile App
+1196,2025-11-26,C509,Bluetooth Speaker,Electronics,3,3450,2520,0.25,Salem,Web
+1196,2025-11-26,C509,Headphones,Electronics,1,2540,1850,0.1,Salem,Web
+1197,2026-04-15,C377,T-Shirt,Apparel,3,700,300,0.1,Coimbatore,Mobile App
+1198,2026-05-21,C130,Pressure Cooker,Home & Kitchen,1,1580,1010,0.15,Chennai,Mobile App
+1199,2026-06-12,C249,Belt,Accessories,5,590,270,0.15,Kochi ,Mobile App
+1200,30-06-2026,C422,Water Purifier,Home & Kitchen,2,12350,8090,0.05,Salem,Mobile App
+1201,2025-09-14,C279,Tablet,Electronics,1,17930,13390,0.1,Kochi,Web
+1202,2025-10-09,C010,Phone,Electronics,1,20680,15180,0.25,Trichy,Mobile App
+1202,2025-10-09,C010,Backpack,Accessories,2,1490,670,0.15,Trichy,Mobile App
+1203,2025-10-16,C392,Pressure Cooker,Home & Kitchen,4,1600,980,0.2,Salem,Mobile App
+1203,2025-10-16,C392,Laptop Sleeve,Accessories,3,910,420,0.15,Salem,Mobile App
+1204,2026-03-25,C626,Laptop,Electronics,1,50080,36540,0.15,Chennai,Web
+1205,2025-11-23,C480,Phone,Electronics,-1,19640,13930,0.05,Coimbatore,Mobile App
+1206,2025-10-17,C004,Microwave,Home & Kitchen,1,9510,5920,0.1,Chennai,Web
+1207,2025-10-15,C587,Smartwatch,Electronics,1,7730,5620,0.15,Bengaluru,Mobile App
+1208,2025-10-13,C432,Phone,Electronics,1,19290,13800,0.2,Chennai,Mobile App
+1209,2026-03-25,C294,Office Chair,Furniture,1,7780,4480,0.0,Bengaluru,Mobile App
+1209,2026-03-25,C294,Microwave,Home & Kitchen,2,9360,6170,0.15,Bengaluru,Mobile App
+1210,2026-06-18,C103,Wardrobe,Furniture,1,22320,12780,0.0,KOCHI,Mobile App
+1211,2025-11-02,C479,Backpack,Accessories,3,1490,730,0.25,Bengaluru,Mobile App
+1212,2026-07-16,C269,Wardrobe,Furniture,1,21740,12120,0.15,Hyderabad,Mobile App
+1213,2026-03-29,C047,Formal Shirt,Apparel,3,1430,610,0.2,Coimbatore,Web
+1214,2026-02-27,C492,Microwave,Home & Kitchen,1,9540,6380,0.05,Bengaluru,Web
+1215,2026-06-18,C292,Sofa Set,Furniture,1,32740,18420,0.1,Trichy,Mobile App
+1215,2026-06-18,C292,Smart TV,Electronics,1,36210,26230,0.15,Trichy,Mobile App
+1216,2026-01-18,C103,Saree,Apparel,2,3470,1530,0.0,Kochi,Mobile App
+1216,2026-01-18,C103,Phone,Electronics,1,20730,14390,0.25,Kochi,Mobile App
+1217,2026-06-20,C089,Power Bank,Electronics,2,1510,1060,0.1,Coimbatore,Mobile App
+1217,2026-06-20,C089,Mixer Grinder,Home & Kitchen,1,4030,2490,0.1,Coimbatore,Mobile App
+1218,2026-03-15,C455,Wallet,Accessories,2,800,410,0.0,Hyderabad,Mobile App
+1219,2025-09-04,C575,Phone,Electronics,1,19670,14010,0.0,Chennai,Mobile App
+1220,2026-05-07,C199,T-Shirt,Apparel,3,720,310,0.1,Bengaluru,Mobile App
+1221,2025-11-25,C246,Study Table,Furniture,1,6080,3400,0.1,Kochi,Web
+1222,2026-08-01,C566,Phone Case,Accessories,1,410,190,0.0,Madurai,Mobile App
+1223,2026-05-13,C229,Phone Case,Accessories,2,390,190,0.1,Coimbatore,Mobile App
+1224,2026-06-07,C440,Phone,Electronics,1,20020,14480,0.1,Hyderabad,Mobile App
+1225,2025-10-25,C163,Kurta,Apparel,2,1170,510,0.2,chennai ,Mobile App
+1226,2025-12-09,C160,Dinner Set,Home & Kitchen,2,1840,1180,0.0,Madurai,Mobile App
+1227,2026-05-17,C477,Jeans,Apparel,3,1790,740,0.0,Coimbatore,Mobile App
+1227,2026-05-17,C477,Wardrobe,Furniture,1,22430,13180,0.1,Coimbatore,Mobile App
+1228,2025-11-23,C127,Jeans,Apparel,1,1800,790,0.25,Salem,Web
+1229,2025-12-27,C531,Study Table,Furniture,1,5790,3230,0.0,Chennai,Mobile App
+1229,2025-12-27,C531,Smartwatch,Electronics,2,7700,5740,0.2,Chennai,Mobile App
+1230,2026-08-26,C564,Smartwatch,Electronics,2,7730,5570,0.05,Kochi,Mobile App
+1230,2026-08-26,C564,Smartwatch,Electronics,2,7730,5570,0.05,Kochi,Mobile App
+1231,2025-10-13,C385,Laptop,Electronics,1,48450,33940,0.1,Chennai,Web
+1231,2025-10-13,C385,Sofa Set,Furniture,1,32790,17890,0.1,Chennai,Web
+1232,2026-06-12,C135,Smart TV,Electronics,1,34010,25370,0.15,Chennai,Mobile App
+1233,2026-08-27,C563,Sofa Set,Furniture,1,32350,17550,0.05,Madurai,Mobile App
+1234,2026-04-13,C413,Phone,Electronics,1,19840,14050,0.25,Madurai,Mobile App
+1235,2026-02-27,C130,Wardrobe,Furniture,1,21380,12450,0.25,Chennai,Web
+1235,2026-02-27,C130,Sofa Set,Furniture,1,32460,19080,0.0,Chennai,Web
+1236,2026-07-30,C281,Smart TV,Electronics,1,35430,25280,0.2,Chennai,Mobile App
+1236,2026-07-30,C281,Sofa Set,Furniture,1,33070,19230,0.0,Chennai,Mobile App
+1236,2026-07-30,C281,Pressure Cooker,Home & Kitchen,1,1610,1000,0.15,Chennai,Mobile App
+1237,2025-10-24,C213,Formal Shirt,Apparel,1,1350,560,0.15,Salem,Mobile App
+1238,2025-11-01,C221,Laptop,Electronics,1,48370,36100,0.3,Chennai,Web
+1239,2026-08-11,C067,Bookshelf,Furniture,2,4670,2730,0.0,Madurai,Mobile App
+1239,2026-08-11,C067,Phone,Electronics,1,20570,14350,0.3,Madurai,Mobile App
+1240,2026-01-20,C570,Sunglasses,Accessories,4,1280,610,0.2,Madurai,Mobile App
+1241,2025-11-26,C256,Jeans,Apparel,1,1780,770,0.3,Bengaluru,Web
+1242,2025-11-12,C563,Sunglasses,Accessories,2,1310,600,0.0,Madurai,Web
+1243,2026-05-31,C490,Backpack,Accessories,1,1530,700,0.1,Coimbatore,Web
+1244,2025-11-09,C466,Dinner Set,Home & Kitchen,2,1960,1260,0.3,Trichy,Web
+1244,2025-11-09,C466,Phone,Electronics,1,20220,15080,0.15,Trichy,Web
+1245,2026-02-03,C209,Formal Shirt,Apparel,5,1400,620,0.1,Chennai,Web
+1245,2026-02-03,C209,Jeans,Apparel,1,1840,810,0.3,Chennai,Web
+1246,2026-04-28,C620,Wallet,Accessories,-5,770,370,0.0,Hyderabad,Web
+1247,2026-01-16,C130,Phone,Electronics,1,19260,13730,0.2,Chennai,Mobile App
+1248,2026-07-21,C562,Smart TV,Electronics,1,35370,25970,0.05,Bengaluru,Mobile App
+1249,2026-05-13,C304,Smart TV,Electronics,1,35110,24870,0.25, Madurai,Mobile App
+1250,2026-01-10,C492,Laptop,Electronics,1,51150,35420,0.25,Bengaluru,Mobile App
+1251,2026-04-23,C188,T-Shirt,Apparel,5,680,300,0.0,Bengaluru,Mobile App
+1252,2025-10-15,C348,Sunglasses,Accessories,1,1250,620,0.05,Hyderabad,Mobile App
+1253,2025-09-21,C168,Bed Frame,Furniture,1,18430,10010,0.05,Chennai,Web
+1253,21-09-2025,C168,Wardrobe,Furniture,1,21420,12110,0.0,Chennai,Web
+1254,2026-06-17,C371,Bluetooth Speaker,Electronics,1,3630,2630,0.25,Coimbatore,Mobile App
+1255,2026-06-09,C484,Headphones,Electronics,1,2420,1690,0.2,Kochi,Mobile App
+1256,2026-03-08,C006,Laptop,Electronics,1,48400,35860,0.25,Kochi,Web
+1256,2026-03-08,C006,Bed Frame,Furniture,1,17290,9350,0.1,Kochi,Web
+1257,2026-07-18,C459,Power Bank,Electronics,1,1550,1130,0.05,,Web
+1257,2026-07-18,C459,Saree,Apparel,2,3550,1500,0.1,,Web
+1258,2026-02-08,C354,Jeans,Apparel,1,1780,730,0.0,Chennai,Mobile App
+1259,2026-02-25,C021,Saree,Apparel,2,3510,1490,0.15,Bengaluru ,Web
+1260,2025-11-15,C604,Laptop,Electronics,1,50580,35770,0.15,Trichy,Web
+1260,2025-11-15,C604,Cookware Set,Home & Kitchen,1,2900,1850,0.2,Trichy,Web
+1261,2026-06-14,C271,Jacket,Apparel,3,2900,1220,0.1,Salem,Mobile App
+1262,2025-10-10,C359,Jeans,Apparel,2,1770,740,0.3,Salem,Mobile App
+1262,2025-10-10,C359,Water Purifier,Home & Kitchen,1,11830,7360,0.1,Salem,Mobile App
+1263,2025-12-12,C228,Bed Frame,Furniture,2,18560,10000,0.05,Bengaluru,Web
+1264,2025-12-16,C384,Microwave,Home & Kitchen,1,9860,6130,0.15,Chennai,Web
+1264,2025-12-16,C384,Smart TV,Electronics,1,33980,25180,0.05,Chennai,Web
+1265,2025-12-01,C545,Jeans,Apparel,1,1820,810,0.3,Salem,Mobile App
+1266,2026-07-05,C559,Bed Frame,Furniture,1,18710,10580,0.0,hyderabad,Web
+1266,2026-07-05,C559,Pressure Cooker,Home & Kitchen,1,1630,1020,0.15,Hyderabad,Web
+1267,2026-07-19,C057,Bookshelf,Furniture,1,4320,2540,0.05,Madurai,Mobile App
+1268,2026-05-30,C564,Bed Frame,Furniture,1,18430,10680,0.0,Kochi,Web
+1269,2026-03-10,C613,Bed Frame,Furniture,2,17720,10140,0.15,Madurai,Web
+1269,2026-03-10,C613,Wallet,Accessories,3,780,360,0.0,Madurai,Web
+1270,2025-09-11,C533,T-Shirt,Apparel,2,690,320,0.1,Chennai,Mobile App
+1270,2025-09-11,C533,Mixer Grinder,Home & Kitchen,3,4320,2650,0.05,Chennai,Mobile App
+1271,2025-09-14,C521,Wallet,Accessories,3,800,400,0.0,Salem,Web
+1272,2026-07-15,C145,Wallet,Accessories,1,810,410,0.05,Bengaluru,Mobile App
+1272,2026-07-15,C145,Wallet,Accessories,1,810,410,0.05,Bengaluru,Mobile App
+1273,2026-04-04,C583,Study Table,Furniture,1,5790,3320,0.3,Madurai,Web
+1274,2025-11-06,C238,Laptop Sleeve,Accessories,1,910,460,0.2,Trichy,Web
+1275,2025-11-03,C050,Cookware Set,Home & Kitchen,1,2750,1690,0.15, Chennai,Web
+1276,2026-02-23,C581,Cookware Set,Home & Kitchen,2,2810,1760,0.2,Chennai,Web
+1276,2026-02-23,C581,Wallet,Accessories,1,820,420,0.25,Chennai,Web
+1277,2026-01-15,C055,Smartwatch,Electronics,1,8290,5770,0.2,Chennai,Web
+1277,2026-01-15,C055,Bed Frame,Furniture,1,18540,10410,0.0,Chennai,Web
+1278,2026-08-18,C064,Headphones,Electronics,1,2490,1810,0.0,Coimbatore,Mobile App
+1279,2026-07-11,C134,Water Purifier,Home & Kitchen,1,12190,8050,0.05,Bengaluru,Web
+1279,2026-07-11,C134,Phone,Electronics,1,20460,14330,0.15,Bengaluru,Web
+1279,2026-07-11,C134,Mixer Grinder,Home & Kitchen,2,4170,2630,0.05,Bengaluru,Web
+1280,2026-08-19,C547,Headphones,Electronics,3,2490,1740,0.2,Madurai,Mobile App
+1281,2025-11-17,C330,Cookware Set,Home & Kitchen,1,2840,1760,0.0,Hyderabad,Mobile App
+1281,2025-11-17,C330,Bluetooth Speaker,Electronics,1,3400,2400,0.2,Hyderabad,Mobile App
+1282,2025-09-15,C028,Headphones,Electronics,1,2510,1760,0.3,Chennai,Web
+1283,2025-12-21,C507,Wardrobe,Furniture,1,21680,11500,0.3,Madurai,Mobile App
+1284,2025-11-28,C514,Smartwatch,Electronics,1,8280,6200,0.05,Bengaluru,Mobile App
+1285,2026-03-13,C470,Cookware Set,Home & Kitchen,1,2850,1890,0.1,coimbatore ,Mobile App
+1286,2025-11-23,C038,Tablet,Electronics,1,18630,13170,0.2,Trichy,Web
+1286,2025-11-23,C038,Sofa Set,Furniture,1,30960,16510,0.15,Trichy,Web
+1287,2026-01-07,C504,Office Chair,Furniture,1,7320,4020,0.25,Salem,Mobile App
+1288,2026-07-26,C439,T-Shirt,Apparel,1,690,300,0.1,Chennai,Web
+1289,2026-08-21,C204,Pressure Cooker,Home & Kitchen,3,1590,1060,0.05,Bengaluru,Mobile App
+1290,2026-06-14,C586,Backpack,Accessories,1,1460,710,0.0,Bengaluru,Mobile App
+1291,2026-01-25,C314,Smart TV,Electronics,1,36290,26690,0.1,Chennai,Mobile App
+1291,2026-01-25,C314,Phone,Electronics,1,19500,13900,0.0,Chennai,Mobile App
+1291,2026-01-25,C314,Backpack,Accessories,3,1490,720,0.15,Chennai,Mobile App
+1292,2026-06-23,C451,Study Table,Furniture,1,5980,3180,0.0,Hyderabad,Mobile App
+1293,2026-08-13,C304,Mixer Grinder,Home & Kitchen,2,4330,2750,0.15,Madurai,Mobile App
+1294,2025-11-08,C381,Phone Case,Accessories,2,390,190,0.15,Bengaluru,Web
+1295,2026-07-10,C379,Cookware Set,Home & Kitchen,2,2710,1740,0.25,Hyderabad,Mobile App
+1296,2025-10-20,C565,T-Shirt,Apparel,1,680,290,0.15,Coimbatore,Web
+1297,2026-07-27,C558,Office Chair,Furniture,2,7760,4350,0.0,Bengaluru,Web
+1298,2025-10-05,C526,T-Shirt,Apparel,1,720,320,0.2,Chennai,Mobile App
+1299,2026-05-01,C174,Formal Shirt,Apparel,2,1350,600,0.1,Chennai,Web
+1300,2025-11-30,C070,Phone,Electronics,1,19550,13710,0.2,Salem,Mobile App
+1301,2026-06-25,C238,Study Table,Furniture,1,6120,3290,0.0,Trichy,Mobile App
+1302,2026-06-20,C098,Bluetooth Speaker,Electronics,3,3460,2560,0.15,Coimbatore,Mobile App
+1303,2026-05-29,C394,Laptop,Electronics,1,51260,36050,0.05,salem,Web
+1303,2026-05-29,C394,Tablet,Electronics,1,17460,12180,0.2,Salem,Web
+1304,2026-06-06,C460,Jacket,Apparel,3,2700,1120,0.1,Madurai,Web
+1304,2026-06-06,C460,Smart TV,Electronics,1,33930,23930,0.2,Madurai,Web
+1305,2026-05-25,C168,Office Chair,Furniture,1,7640,4160,0.0,Chennai,Mobile App
+1305,2026-05-25,C168,Kurta,Apparel,2,1240,580,0.0,Chennai,Mobile App
+1305,2026-05-25,C168,Tablet,Electronics,1,18580,13030,0.0,Chennai,Mobile App
+1306,18-03-2026,C211,Phone,Electronics,1,19650,14620,0.3,Chennai,Web
+1307,2025-10-06,C107,Dinner Set,Home & Kitchen,1,1880,1210,0.3,Bengaluru,Web
+1308,2025-10-24,C233,Tablet,Electronics,3,17610,12270,0.05,Salem,Web
+1309,2025-10-09,C620,Smartwatch,Electronics,3,8060,5710,0.15,Hyderabad,Web
+1309,2025-10-09,C620,Dinner Set,Home & Kitchen,1,1910,1170,0.0,Hyderabad,Web
+1310,2026-03-08,C009,Phone,Electronics,1,19310,14300,0.2,Salem,Web
+1311,2026-08-29,C502,Sofa Set,Furniture,1,32410,17340,0.05,Salem,Mobile App
+1312,2026-03-24,C550,Phone,Electronics,1,20540,15070,0.2,Chennai,Web
+1312,2026-03-24,C550,Phone Case,Accessories,2,390,200,0.1,Chennai,Web
+1313,2026-03-20,C485,Mixer Grinder,Home & Kitchen,2,4170,2660,0.1,Chennai,Web
+1313,2026-03-20,C485,Bed Frame,Furniture,1,17680,10190,0.0,Chennai,Web
+1314,2026-02-07,C151,Smart TV,Electronics,1,33750,23430,0.3,Chennai,Mobile App
+1315,2025-12-14,C389,Microwave,Home & Kitchen,2,9190,5650,0.2,Hyderabad,Mobile App
+1316,2026-06-09,C124,Bed Frame,Furniture,2,17660,9720,0.1,Salem,Web
+1317,2026-08-12,C584,Backpack,Accessories,2,1490,700,0.1,Bengaluru,Web
+1318,2025-09-14,C522,Bed Frame,Furniture,1,17440,9950,0.1,Madurai,Mobile App
+1318,2025-09-14,C522,Bluetooth Speaker,Electronics,1,3560,2560,0.2,Madurai,Mobile App
+1319,2026-03-16,C569,Office Chair,Furniture,3,7430,4160,0.1,Chennai,Mobile App
+1319,2026-03-16,C569,Headphones,Electronics,1,2600,1840,0.0,CHENNAI,Mobile App
+1320,2026-06-28,C407,Laptop,Electronics,1,51570,36640,0.1,Trichy,Web
+1320,2026-06-28,C407,Headphones,Electronics,1,2470,1800,0.2,Trichy,Web
+1321,2026-03-24,C382,Bluetooth Speaker,Electronics,1,3450,2380,0.15,Salem,Mobile App
+1322,2026-07-08,C232,Power Bank,Electronics,1,1510,1120,0.2,Kochi,Mobile App
+1322,2026-07-08,C232,Smartwatch,Electronics,3,8130,5900,0.1,Kochi,Mobile App
+1323,2025-11-29,C335,Kurta,Apparel,2,1230,570,0.1,Salem,Mobile App
+1323,2025-11-29,C335,Headphones,Electronics,1,2520,1790,0.2,Salem,Mobile App
+1324,2025-09-20,C287,Tablet,Electronics,1,18350,12760,0.0,Salem,Mobile App
+1325,2025-11-29,C435,Wardrobe,Furniture,1,21490,12420,0.05,Chennai,Web
+1325,2025-11-29,C435,Jeans,Apparel,1,1790,790,0.15,Chennai,Web
+1326,2026-04-07,C269,Tablet,Electronics,1,18670,13710,0.3,Hyderabad,Mobile App
+1326,2026-04-07,C269,Phone,Electronics,1,19230,14080,0.15,Hyderabad,Mobile App
+1327,2026-02-27,C235,Phone,Electronics,1,19440,14210,0.1,Bengaluru,Mobile App
+1327,2026-02-27,C235,Sofa Set,Furniture,1,32170,18260,0.05,Bengaluru,Mobile App
+1328,2025-11-25,C582,Tablet,Electronics,1,17870,13210,0.15,Trichy,Mobile App
+1329,2026-03-28,C541,Phone,Electronics,1,19590,14490,0.15,Salem,Web
+1330,2026-01-02,C482,Phone,Electronics,1,19420,13700,0.2,Salem,Mobile App
+1331,2025-10-23,C203,T-Shirt,Apparel,2,720,310,0.2,Salem,Mobile App
+1331,2025-10-23,C203,Smart TV,Electronics,1,36240,26580,0.05,Salem,Mobile App
+1331,2025-10-23,C203,Bed Frame,Furniture,1,17310,10070,0.15,Salem,Mobile App
+1332,2026-05-18,C188,Formal Shirt,Apparel,1,1450,680,0.25,Bengaluru,Mobile App
+1333,2025-11-06,C612,Sofa Set,Furniture,2,31090,16800,0.1,Hyderabad,Web
+1333,2025-11-06,C612,Bluetooth Speaker,Electronics,2,3520,2510,0.1,Hyderabad,Web
+1334,2025-11-10,C450,Headphones,Electronics,1,2590,1840,0.25,Chennai,Mobile App
+1335,2026-08-16,C630,Jeans,Apparel,1,1760,780,0.3,salem ,Mobile App
+1335,2026-08-16,C630,Headphones,Electronics,1,2540,1880,0.3,Salem,Mobile App
+1335,2026-08-16,C630,Water Purifier,Home & Kitchen,3,12330,8010,0.15,Salem,Mobile App
+1336,2025-12-07,C158,T-Shirt,Apparel,4,720,310,0.1,Salem,Mobile App
+1337,2026-08-21,C464,Formal Shirt,Apparel,4,1370,580,0.25,Chennai,Web
+1338,2026-04-09,C035,Power Bank,Electronics,4,1440,1070,0.3,Salem,Mobile App
+1338,2026-04-09,C035,Wardrobe,Furniture,1,21850,12680,0.2,Salem,Mobile App
+1339,2026-06-21,C007,Wardrobe,Furniture,1,21170,11290,0.1,Coimbatore,Mobile App
+1339,2026-06-21,C007,Office Chair,Furniture,2,7410,4200,0.15,Coimbatore,Mobile App
+1340,2026-06-08,C584,Microwave,Home & Kitchen,1,9360,5760,0.1,Bengaluru,Web
+1341,2026-08-18,C074,Pressure Cooker,Home & Kitchen,3,1570,1020,0.2,Hyderabad,Mobile App
+1341,18-08-2026,C074,Kurta,Apparel,1,1220,560,0.1,Hyderabad,Mobile App
+1341,2026-08-18,C074,Pressure Cooker,Home & Kitchen,3,1570,1020,0.2,Hyderabad,Mobile App
+1342,2025-10-28,C096,T-Shirt,Apparel,1,720,330,0.3,Chennai,Web
+1343,2026-08-01,C401,Backpack,Accessories,2,1560,720,0.0,Chennai,Mobile App
+1344,2025-12-20,C457,Smart TV,Electronics,1,34630,25860,0.2,Chennai,Web
+1345,2026-01-01,C479,Cookware Set,Home & Kitchen,1,2710,1770,0.25,Bengaluru,Mobile App
+1346,2026-06-05,C142,Phone,Electronics,2,20570,14930,0.1,Salem,Web
+1347,2026-04-27,C246,Phone,Electronics,1,19660,13870,0.3,Kochi,Web
+1348,2025-12-10,C173,Laptop,Electronics,1,48530,34430,0.2,Bengaluru,Mobile App
+1349,2026-05-10,C574,Backpack,Accessories,4,1560,790,0.1,Madurai,Mobile App
+1349,2026-05-10,C574,Smartwatch,Electronics,1,7740,5370,0.05,Madurai,Mobile App
+1350,2026-05-23,C235,Microwave,Home & Kitchen,1,9350,5920,0.3,Bengaluru,Web
+1351,2026-03-10,C249,Office Chair,Furniture,1,7760,4520,0.05,Kochi,Mobile App
+1352,2026-02-25,C007,Laptop,Electronics,1,48510,36010,0.2,Coimbatore,Web
+1353,2026-08-02,C238,Bluetooth Speaker,Electronics,1,3640,2680,0.25,Trichy,Web
+1353,2026-08-02,C238,Microwave,Home & Kitchen,1,9700,6070,0.25,Trichy,Web
+1354,2026-04-19,C432,Phone,Electronics,1,19570,13550,0.2,Chennai,Mobile App
+1355,2026-01-02,C631,Phone,Electronics,1,19470,14030,0.3,Kochi,Mobile App
+1355,2026-01-02,C631,Laptop,Electronics,1,49430,36210,0.15,Kochi,Mobile App
+1355,2026-01-02,C631,Kurta,Apparel,1,1240,520,0.25,Kochi,Mobile App
+1356,2026-03-22,C323,Office Chair,Furniture,1,7540,4180,0.15,Chennai,Mobile App
+1356,2026-03-22,C323,Cookware Set,Home & Kitchen,2,2890,1770,0.15,Chennai,Mobile App
+1356,2026-03-22,C323,Power Bank,Electronics,3,1510,1130,0.05,Chennai,Mobile App
+1357,2025-10-02,C601,Wardrobe,Furniture,1,22800,12900,0.3,Kochi,Mobile App
+1358,2026-04-19,C107,Pressure Cooker,Home & Kitchen,2,1630,1090,0.05,Bengaluru,Mobile App
+1359,2025-09-20,C129,Laptop,Electronics,1,48280,36070,0.1,Chennai,Mobile App
+1360,2025-10-23,C332,Jacket,Apparel,2,2830,1180,0.15,Coimbatore,Mobile App
+1360,2025-10-23,C332,Smart TV,Electronics,1,35990,25180,0.15,Coimbatore,Mobile App
+1361,2026-06-15,C077,T-Shirt,Apparel,2,700,310,0.2,Hyderabad,Web
+1361,2026-06-15,C077,Phone,Electronics,1,20260,14990,0.15,Hyderabad,Web
+1362,2026-06-17,C396,Sofa Set,Furniture,1,30820,16970,0.0,Bengaluru,Mobile App
+1363,2026-04-30,C402,Microwave,Home & Kitchen,1,9520,5970,0.25,Madurai,Web
+1364,2026-01-26,C254,Backpack,Accessories,1,1540,740,0.0,Coimbatore,Web
+1365,01-10-2025,C107,Sofa Set,Furniture,1,30960,17640,0.05,Bengaluru,Web
+1366,2025-11-10,C527,Phone,Electronics,1,20260,14200,0.15,Madurai,Web
+1367,2025-10-03,C454,Water Purifier,Home & Kitchen,1,11960,7780,0.1,Chennai,Mobile App
+1368,2026-08-17,C206,Phone,Electronics,1,20400,14820,0.0,Hyderabad,Mobile App
+1369,2026-02-28,C282,Phone,Electronics,1,19960,14600,0.3,Chennai,Web
+1370,2026-03-28,C306,Belt,Accessories,3,590,290,0.05,Trichy,Mobile App
+1371,2025-11-21,C264,Phone,Electronics,1,19230,14390,0.1,Coimbatore,Web
+1372,2026-04-16,C072,Microwave,Home & Kitchen,1,9720,6040,0.1,Hyderabad,Mobile App
+1373,2026-01-24,C114,Phone,Electronics,1,20320,15200,0.25,Hyderabad,Web
+1374,2026-03-21,C474,Kurta,Apparel,3,1160,480,0.2,Madurai,Web
+1375,2026-08-22,C326,Water Purifier,Home & Kitchen,1,12050,7560,0.1,Bengaluru,Mobile App
+1376,2026-04-02,C391,Smart TV,Electronics,1,361000,25810,0.15,Chennai,Mobile App
+1376,2026-04-02,C391,Bed Frame,Furniture,1,18310,10280,0.05,Chennai,Mobile App
+1377,2026-08-07,C613,Tablet,Electronics,1,18590,13210,0.25,Madurai,Web
+1377,2026-08-07,C613,Tablet,Electronics,1,18590,13210,0.25,Madurai,Web
+1377,2026-08-07,C613,Laptop,Electronics,1,49150,34480,0.05,Madurai,Web
+1378,2026-04-19,C427,Dinner Set,Home & Kitchen,2,1970,1300,0.2,Bengaluru,Web
+1379,2026-06-11,C479,Microwave,Home & Kitchen,1,9330,6110,0.0,Bengaluru,Mobile App
+1379,2026-06-11,C479,Phone,Electronics,1,20170,14040,0.3,Bengaluru,Mobile App
+1380,2025-11-22,C441,Laptop,Electronics,1,51520,36650,0.25,Salem,Web
+1381,2026-07-20,C535,Sofa Set,Furniture,1,32300,17350,0.0,Hyderabad,Web
+1382,2025-11-30,C079,T-Shirt,Apparel,3,690,290,0.15,Bengaluru,Web
+1383,2026-04-24,C622,Water Purifier,Home & Kitchen,2,12270,8180,0.0,Bengaluru,Mobile App
+1383,2026-04-24,C622,Phone,Electronics,1,20210,15000,0.05,Bengaluru,Mobile App
+1383,2026-04-24,C622,Sofa Set,Furniture,1,31890,18510,0.0,Bengaluru,Mobile App
+1384,2025-11-19,C145,Pressure Cooker,Home & Kitchen,1,1550,1010,0.05,Bengaluru,Web
+1385,2026-07-02,C107,Saree,Apparel,1,3430,1570,0.1,Bengaluru,Web
+1386,2025-10-03,C562,Tablet,Electronics,1,18430,13170,0.2,Bengaluru ,Web
+1386,2025-10-03,C562,Headphones,Electronics,2,2530,1770,0.15,Bengaluru,Web
+1387,2026-07-04,C259,Laptop,Electronics,1,48580,33550,0.3,Chennai,Mobile App
+1388,2025-10-03,C427,Backpack,Accessories,3,1450,710,0.2,Bengaluru,Web
+1388,2025-10-03,C427,Phone,Electronics,1,19300,14200,0.2,Bengaluru,Web
+1388,2025-10-03,C427,Office Chair,Furniture,2,7380,4090,0.15,Bengaluru,Web
+1389,2025-11-22,C010,Sofa Set,Furniture,1,31250,17580,0.15,Trichy,Mobile App
+1389,2025-11-22,C010,Laptop,Electronics,2,49120,35450,0.25,Trichy,Mobile App
+1390,2026-05-04,C113,Pressure Cooker,Home & Kitchen,4,1630,1010,0.05,Madurai,Mobile App
+1390,2026-05-04,C113,Power Bank,Electronics,1,1460,1030,0.1,Madurai,Mobile App
+1391,2025-10-05,C110,Jacket,Apparel,3,2720,1120,0.2,Trichy,Mobile App
+1392,2025-11-07,C148,Headphones,Electronics,1,2410,1760,0.15,Madurai  ,Mobile App
+1392,2025-11-07,C148,Phone Case,Accessories,2,390,180,0.2,Madurai,Mobile App
+1393,2026-05-19,C427,Jeans,Apparel,3,1870,830,0.15,Bengaluru,Mobile App
+1393,2026-05-19,C427,Pressure Cooker,Home & Kitchen,-2,1620,1060,0.05,Bengaluru,Mobile App
+1393,2026-05-19,C427,Office Chair,Furniture,1,7560,4170,0.15,Bengaluru,Mobile App
+1394,2025-11-27,C262,Headphones,Electronics,3,2420,1770,0.05,Coimbatore,Mobile App
+1394,2025-11-27,C262,Smart TV,Electronics,1,36090,25930,0.15,Coimbatore ,Mobile App
+1395,2026-02-23,C284,Power Bank,Electronics,2,1470,1060,0.15,Chennai,Mobile App
+1396,2026-08-04,C199,Jacket,Apparel,4,2900,1250,0.15,Bengaluru,Mobile App
+1396,2026-08-04,C199,Formal Shirt,Apparel,3,1360,570,0.0,Bengaluru,Mobile App
+1396,2026-08-04,C199,Dinner Set,Home & Kitchen,1,1960,1210,0.1,Bengaluru,Mobile App
+1397,23-12-2025,C427,Laptop,Electronics,2,48610,34620,0.1,Bengaluru,Web
+1398,2026-01-31,C176,Water Purifier,Home & Kitchen,2,11570,7680,0.05,Madurai,Mobile App
+1399,2026-06-20,C430,Headphones,Electronics,2,2570,1840,0.15,Madurai,Mobile App
+1399,2026-06-20,C430,Headphones,Electronics,2,2570,1840,0.15,Madurai,Mobile App
+1400,2026-07-23,C060,Pressure Cooker,Home & Kitchen,2,1610,1060,0.1,Coimbatore,Mobile App
+1401,2026-01-10,C568,Bluetooth Speaker,Electronics,1,3580,2610,0.05,Coimbatore,Web
+1401,2026-01-10,C568,Power Bank,Electronics,3,1500,1120,0.2,Coimbatore,Web
+1402,2026-04-15,C259,Bookshelf,Furniture,2,4610,2640,0.0,Chennai,Mobile App
+1402,2026-04-15,C259,Study Table,Furniture,2,5850,3320,0.0,Chennai,Mobile App
+1403,2026-03-15,C264,Backpack,Accessories,1,1450,730,0.0,Coimbatore,Web
+1404,2026-06-07,C293,Laptop,Electronics,1,51450,35570,0.1,Trichy,Web
+1404,2026-06-07,C293,T-Shirt,Apparel,3,700,320,0.1,Trichy,Web
+1405,2026-07-06,C072,Phone,Electronics,1,19360,13550,0.05,Hyderabad,Web
+1406,2025-10-04,C457,Phone,Electronics,1,20180,14320,0.0,Chennai,Web
+1407,2025-12-17,C282,Bluetooth Speaker,Electronics,1,3470,2570,0.05,Chennai,Web
+1408,2026-05-24,C528,Jacket,Apparel,1,2770,1150,0.1,Coimbatore,Mobile App
+1409,2025-12-22,C034,Tablet,Electronics,2,18560,13110,0.2,Madurai,Mobile App
+1410,2025-11-08,C140,Bluetooth Speaker,Electronics,2,3470,2410,0.1,Bengaluru,Mobile App
+1410,2025-11-08,C140,Belt,Accessories,3,590,300,0.15,Bengaluru,Mobile App
+1411,2025-12-28,C276,Laptop,Electronics,1,49860,36880,0.3,Salem,Mobile App
+1412,2025-09-01,C612,Water Purifier,Home & Kitchen,1,12330,7800,0.15,Hyderabad,Mobile App
+1413,2026-03-21,C444,Jacket,Apparel,1,2810,1200,0.0,Madurai,Mobile App
+1414,2025-10-15,C617,Sofa Set,Furniture,1,32280,18960,0.2,Chennai,Mobile App
+1415,2025-11-30,C494,Wardrobe,Furniture,1,21550,12690,0.1,Chennai,Web
+1415,2025-11-30,C494,Water Purifier,Home & Kitchen,1,11540,7520,0.0,Chennai,Web
+1416,2026-01-26,C200,Power Bank,Electronics,2,1550,1130,0.15,Chennai,Mobile App
+1417,2026-06-07,C011,Laptop,Electronics,1,51330,37490,0.1,Chennai,Mobile App
+1418,2026-06-18,C280,Phone,Electronics,1,20430,14950,0.15,Coimbatore,Mobile App
+1419,2026-08-06,C193,Laptop,Electronics,1,49120,36610,0.0,Salem,Web
+1420,2026-04-02,C260,Dinner Set,Home & Kitchen,3,1860,1160,0.1,Chennai,Web
+1420,02-04-2026,C260,Tablet,Electronics,1,17990,12800,0.3,Chennai,Web
+1421,2026-07-11,C549,Study Table,Furniture,2,6080,3430,0.1,Bengaluru,Mobile App
+1422,2025-09-27,C599,Smartwatch,Electronics,1,8040,5660,0.25,Madurai,Web
+1423,2025-10-26,C183,Cookware Set,Home & Kitchen,2,2810,1760,0.15,Chennai,Mobile App
+1423,2025-10-26,C183,Sofa Set,Furniture,1,33270,18180,0.1,Chennai,Mobile App
+1423,2025-10-26,C183,Laptop Sleeve,Accessories,1,910,460,0.3,Chennai,Mobile App
+1424,2025-12-07,C032,Phone,Electronics,1,19330,14000,0.2,Hyderabad,Mobile App
+1424,2025-12-07,C032,Tablet,Electronics,1,17680,12640,0.0,Hyderabad,Mobile App
+1425,2026-08-22,C580,Smartwatch,Electronics,1,7790,5520,0.0,Coimbatore,Web
+1426,2026-01-28,C352,Microwave,Home & Kitchen,1,9370,5860,0.05,Chennai,Mobile App
+1427,2025-11-30,C150,Jeans,Apparel,2,1860,850,0.25,Madurai,Web
+1428,2026-04-07,C253,Smart TV,Electronics,1,33690,23880,0.0,Chennai,Mobile App
+1429,2025-10-12,C532,Bluetooth Speaker,Electronics,2,3540,2460,0.2,Hyderabad,Mobile App
+1430,2025-11-19,C451,Jacket,Apparel,2,2740,1220,0.0,Hyderabad,Web
+1431,2025-12-14,C454,Microwave,Home & Kitchen,2,9380,6250,0.1,Chennai,Mobile App
+1431,2025-12-14,C454,Bluetooth Speaker,Electronics,2,3410,2370,0.0,Chennai ,Mobile App
+1432,2026-06-08,C449,Mixer Grinder,Home & Kitchen,2,4120,2620,0.1,Bengaluru,Web
+1433,2025-11-07,C099,Bluetooth Speaker,Electronics,2,3480,2600,0.15,Chennai,Mobile App
+1434,2026-07-17,C329,Bluetooth Speaker,Electronics,1,3460,2460,0.15,Trichy,Mobile App
+1435,2026-04-27,C416,Kurta,Apparel,1,1230,540,0.05,Coimbatore,Web
+1436,2026-07-26,C037,Mixer Grinder,Home & Kitchen,2,4270,2860,0.05,Chennai,Mobile App
+1437,2026-03-19,C550,Power Bank,Electronics,3,1460,1050,0.0,Chennai,Mobile App
+1438,2025-11-01,C263,Tablet,Electronics,1,18180,12800,0.3,Salem,Web
+1439,2025-11-28,C121,Phone,Electronics,1,20780,14790,0.0,Coimbatore,Mobile App
+1440,2025-10-10,C202,Water Purifier,Home & Kitchen,1,12250,7500,0.05, Salem,Web
+1441,2025-10-23,C491,Headphones,Electronics,1,2510,1760,0.3,Madurai,Mobile App
+1441,2025-10-23,C491,Backpack,Accessories,2,1440,710,0.25,Madurai,Mobile App
+1442,2025-10-09,C207,Tablet,Electronics,2,18450,13460,0.3,Kochi,Mobile App
+1443,2026-08-29,C040,Smart TV,Electronics,1,34000,25350,0.05,Madurai,Mobile App
+1443,2026-08-29,C040,Headphones,Electronics,4,2470,1790,0.05,Madurai,Mobile App
+1444,2025-09-20,C604,Study Table,Furniture,1,6140,3370,0.15,Trichy,Mobile App
+1445,2026-07-12,C179,Smart TV,Electronics,1,35020,25740,0.15,Salem,Mobile App
+1445,2026-07-12,C179,T-Shirt,Apparel,2,680,280,0.15,Salem,Mobile App
+1445,2026-07-12,C179,Bed Frame,Furniture,1,17950,9860,0.1,Salem,Mobile App
+1446,2026-05-11,C613,Power Bank,Electronics,1,1550,1120,0.05,Madurai,Mobile App
+1447,2025-10-29,C559,Bluetooth Speaker,Electronics,4,3610,2610,0.15,Hyderabad,Mobile App
+1448,2026-03-07,C483,Sofa Set,Furniture,1,31620,17870,0.1,Coimbatore,Web
+1449,2025-12-29,C068,Jeans,Apparel,1,1770,770,0.05,Salem,Mobile App
+1450,2026-04-14,C597,Kurta,Apparel,3,1200,540,0.3,Coimbatore,Web
+1451,2025-10-06,C373,Phone,Electronics,1,19510,13850,0.25,Salem,Web
+1452,2026-04-29,C395,Phone Case,Accessories,3,420,210,0.25,Hyderabad,Web
+1452,2026-04-29,C395,Laptop,Electronics,1,49200,36380,0.1,Hyderabad,Web
+1453,2025-12-22,C426,Wardrobe,Furniture,1,22020,12680,0.05,Coimbatore,Mobile App
+1453,2025-12-22,C426,Wardrobe,Furniture,1,22020,12680,0.05,Coimbatore,Mobile App
+1454,2025-11-03,C341,Office Chair,Furniture,2,7670,4410,0.1,Chennai,Mobile App
+1455,2026-06-09,C100,Saree,Apparel,1,3560,1500,0.15,Chennai,Web
+1456,2025-12-12,C150,Wallet,Accessories,4,770,380,0.05,Madurai,Mobile App
+1457,2025-12-27,C579,Jeans,Apparel,1,1810,780,0.2,Hyderabad,Mobile App
+1458,2026-08-01,C144,Phone,Electronics,1,20110,14420,0.0,Coimbatore,Web
+1458,2026-08-01,C144,Phone Case,Accessories,2,390,180,0.0,Coimbatore,Web
+1458,2026-08-01,C144,Bluetooth Speaker,Electronics,2,3540,2570,0.25,Coimbatore,Web
+1459,2025-10-07,C026,Cookware Set,Home & Kitchen,1,2800,1740,0.3,Madurai,Mobile App
+1460,17-11-2025,C041,Smart TV,Electronics,1,33760,24340,0.3,Bengaluru,Web
+1461,2025-12-24,C248,Study Table,Furniture,4,5990,3200,0.2,Chennai,Web
+1462,2025-10-13,C185,Dinner Set,Home & Kitchen,4,1900,1230,0.2,Bengaluru,Web
+1463,2026-02-10,C044,Laptop,Electronics,1,48570,33700,0.25,Bengaluru,Mobile App
+1464,2026-02-23,C622,Wardrobe,Furniture,1,22130,12710,0.2,Bengaluru,Mobile App
+1465,2026-05-05,C438,Microwave,Home & Kitchen,1,9740,6040,0.25,Coimbatore,Mobile App
+1466,2026-05-17,C316,Phone,Electronics,2,20110,14350,0.05,Chennai,Mobile App
+1466,2026-05-17,C316,T-Shirt,Apparel,1,690,310,0.25,Chennai,Mobile App
+1467,2026-05-04,C046,Bed Frame,Furniture,2,18710,10540,0.0,Chennai,Mobile App
+1468,2025-10-07,C367,Wardrobe,Furniture,1,21560,12080,0.0,Hyderabad,Mobile App
+1469,2026-05-03,C612,Jacket,Apparel,1,2880,1250,0.0,Hyderabad,Mobile App
+1470,2026-07-29,C220,Bed Frame,Furniture,1,17380,9780,0.25,Chennai,Web
+1470,2026-07-29,C220,Phone,Electronics,1,20510,15190,0.0,Chennai,Web
+1471,2025-10-06,C125,Power Bank,Electronics,3,1450,1070,0.1,Bengaluru,Web
+1472,2025-12-06,C157,Cookware Set,Home & Kitchen,3,2740,1790,0.2,Coimbatore,Web
+1473,2026-04-13,C333,Saree,Apparel,1,3620,1570,0.0,Bengaluru,Mobile App
+1473,2026-04-13,C333,Power Bank,Electronics,1,1480,1030,0.25,Bengaluru,Mobile App
+1474,2025-12-27,C457,Phone,Electronics,1,20270,14250,0.25,Chennai,Mobile App
+1475,2026-06-25,C328,Power Bank,Electronics,2,1450,1030,0.05,Bengaluru,Web
+1476,2025-10-30,C181,Phone,Electronics,1,19540,13900,0.15,Trichy,Mobile App
+1476,2025-10-30,C181,Mixer Grinder,Home & Kitchen,1,4160,2550,0.1,Trichy,Mobile App
+1476,2025-10-30,C181,Bluetooth Speaker,Electronics,1,3470,2490,0.25,Trichy,Mobile App
+1477,2026-03-27,C342,Study Table,Furniture,1,6240,3630,0.25,,Mobile App
+1478,2026-03-28,C455,T-Shirt,Apparel,2,690,320,0.05,Hyderabad,Mobile App
+1478,2026-03-28,C455,Cookware Set,Home & Kitchen,1,2910,1900,0.15,Hyderabad,Mobile App
+1478,2026-03-28,C455,T-Shirt,Apparel,2,690,320,0.05,Hyderabad,Mobile App
+1479,2026-03-31,C118,Mixer Grinder,Home & Kitchen,4,4110,2650,0.05,Salem,Mobile App
+1480,2026-04-04,C155,Jacket,Apparel,1,2860,1280,0.1,Hyderabad,Mobile App
+1481,2025-11-20,C479,Laptop,Electronics,2,51690,37520,0.25,Bengaluru,Web
+1482,2025-11-28,C045,Saree,Apparel,2,3510,1640,0.1,Chennai,Web
+1483,2025-09-10,C132,Smartwatch,Electronics,1,8030,5980,0.05,Bengaluru,Mobile App
+1484,2026-05-01,C120,Headphones,Electronics,1,2460,1760,0.25,Hyderabad,Mobile App
+1485,2025-09-29,C277,Phone,Electronics,1,19530,13580,0.25,salem ,Web
+1486,2026-08-04,C588,Pressure Cooker,Home & Kitchen,1,1580,1030,0.0,Trichy,Web
+1487,2025-11-08,C328,Mixer Grinder,Home & Kitchen,1,4120,2710,0.3,Bengaluru,Web
+1488,2025-12-20,C455,Office Chair,Furniture,2,7640,4400,0.15,Hyderabad,Web
+1489,2025-09-09,C190,Smartwatch,Electronics,1,7980,5720,0.2,Coimbatore,Web
+1489,2025-09-09,C190,Saree,Apparel,1,3620,1610,0.2,Coimbatore,Web
+1490,2025-09-30,C599,Phone,Electronics,1,19500,13470,0.2,Madurai,Web
+1491,2026-02-03,C347,Phone,Electronics,1,19900,14040,0.2,Chennai,Mobile App
+1491,2026-02-03,C347,Power Bank,Electronics,2,1440,1070,0.15,Chennai,Mobile App
+1491,2026-02-03,C347,Belt,Accessories,3,590,280,0.1,Chennai,Mobile App
+1492,2026-02-14,C065,Laptop,Electronics,1,51250,37300,0.2,Chennai,Mobile App
+1492,2026-02-14,C065,Dinner Set,Home & Kitchen,2,1920,1280,0.05,Chennai,Mobile App
+1493,2026-04-14,C106,Cookware Set,Home & Kitchen,4,2740,1770,0.25,Coimbatore,Web
+1494,2025-09-06,C457,Sunglasses,Accessories,4,1290,630,0.1,,Mobile App
+1495,2025-10-26,C442,Bluetooth Speaker,Electronics,2,3480,2580,0.05,Bengaluru,Web
+1495,2025-10-26,C442,Smartwatch,Electronics,1,7870,5890,0.15,Bengaluru,Web
+1496,2026-04-11,C399,Phone,Electronics,1,20400,15210,0.1,Madurai,Mobile App
+1497,2026-08-25,C333,Smart TV,Electronics,1,35550,25650,0.2,Bengaluru,Mobile App
+1498,2025-10-22,C313,Phone,Electronics,1,19490,14560,0.25,Chennai,Web
+1499,2025-09-25,C224,Smartwatch,Electronics,1,8260,5900,0.2,Coimbatore,Web
+1499,2025-09-25,C224,T-Shirt,Apparel,2,680,290,0.05,Coimbatore,Web
+1500,2025-11-30,C567,Cookware Set,Home & Kitchen,2,2710,1660,0.0,chennai,Mobile App
+1501,2026-03-20,C001,Office Chair,Furniture,3,7200,4080,0.15,Madurai,Mobile App
+1502,2026-08-04,C209,Sofa Set,Furniture,2,31670,18480,0.15,Chennai,Mobile App
+1503,2026-08-08,C048,Laptop,Electronics,1,49420,35080,0.15,Bengaluru,Mobile App
+1504,2026-05-05,C084,Phone,Electronics,1,20160,14960,0.2,Coimbatore,Mobile App
+1504,2026-05-05,C084,Formal Shirt,Apparel,3,1390,620,0.1,Coimbatore,Mobile App
+1505,2025-12-24,C589,Wallet,Accessories,2,820,370,0.0,Chennai,Web
+1505,2025-12-24,C589,Microwave,Home & Kitchen,3,9180,5840,0.3,Chennai,Web
+1505,2025-12-24,C589,Formal Shirt,Apparel,3,1380,600,0.1,Chennai,Web
+1506,2026-08-24,C593,Pressure Cooker,Home & Kitchen,1,1570,980,0.1,Madurai,Mobile App
+1506,2026-08-24,C593,Bookshelf,Furniture,1,4630,2590,0.15,Madurai,Mobile App
+1507,2025-11-21,C314,T-Shirt,Apparel,1,680,300,0.2,Chennai,Mobile App
+1508,2025-11-07,C089,Sunglasses,Accessories,1,1340,660,0.05,Coimbatore,Web
+1508,2025-11-07,C089,Mixer Grinder,Home & Kitchen,2,4060,2580,0.05,Coimbatore,Web
+1509,2026-01-25,C476,Phone,Electronics,1,20060,14710,0.2,Chennai,Mobile App
+1510,2026-07-11,C512,Headphones,Electronics,3,2530,1830,0.25,Bengaluru,Mobile App
+1510,2026-07-11,C512,Water Purifier,Home & Kitchen,2,12140,7680,0.2,Bengaluru,Mobile App
+1511,2025-11-02,C104,Smart TV,Electronics,1,35670,26620,0.05,Chennai,Web
+1512,2025-12-09,C109,Bookshelf,Furniture,2,4320,2310,0.2,Bengaluru,Mobile App
+1512,2025-12-09,C109,Office Chair,Furniture,1,7560,4110,0.1,Bengaluru,Mobile App
+1512,2025-12-09,C109,Phone Case,Accessories,3,390,180,0.2,Bengaluru,Mobile App
+1513,2026-01-17,C612,Phone Case,Accessories,3,390,200,0.1,Hyderabad,Web
+1513,2026-01-17,C612,Kurta,Apparel,3,1200,520,0.0,Hyderabad,Web
+1513,2026-01-17,C612,Mixer Grinder,Home & Kitchen,2,4300,2800,0.05,Hyderabad,Web
+1514,2026-06-24,C615,Pressure Cooker,Home & Kitchen,1,1640,1070,0.25,Bengaluru,Mobile App
+1514,2026-06-24,C615,Headphones,Electronics,3,2600,1850,0.05,Bengaluru,Mobile App
+1515,2025-10-24,C330,Phone Case,Accessories,5,410,210,0.15,Hyderabad ,Mobile App
+1516,2025-11-29,C147,Phone,Electronics,1,20570,14680,0.25,Salem,Mobile App
+1516,2025-11-29,C147,Bookshelf,Furniture,2,4610,2680,0.1,Salem,Mobile App
+1516,2025-11-29,C147,Saree,Apparel,1,3470,1530,0.2,Salem,Mobile App
+1517,2025-10-20,C624,Laptop,Electronics,1,50900,36880,0.3,Chennai,Web
+1517,2025-10-20,C624,Smartwatch,Electronics,2,7770,5460,0.25,Chennai,Web
+1518,2025-10-17,C168,Kurta,Apparel,5,1240,520,0.05,Chennai,Mobile App
+1519,2025-09-22,C102,Water Purifier,Home & Kitchen,1,12450,8060,0.0,Chennai,Mobile App
+1520,2025-11-07,C060,Wallet,Accessories,3,810,380,0.25,Coimbatore,Mobile App
+1520,2025-11-07,C060,Wallet,Accessories,3,810,380,0.25,Coimbatore,Mobile App
+1520,2025-11-07,C060,Mixer Grinder,Home & Kitchen,2,4290,2840,0.1,Coimbatore,Mobile App
+1521,2026-04-18,C246,Smart TV,Electronics,1,34970,25530,0.0,Kochi,Web
+1522,2026-03-16,C627,Jacket,Apparel,2,2870,1210,0.15,Bengaluru,Mobile App
+1523,2025-12-31,C086,Smart TV,Electronics,1,36140,26660,0.25,Madurai,Mobile App
+1524,2025-09-09,C447,Formal Shirt,Apparel,2,1400,620,0.2,Hyderabad,Mobile App
+1525,2026-06-08,C574,Belt,Accessories,3,620,290,0.0,Madurai,Web
+1525,2026-06-08,C574,Study Table,Furniture,1,6140,3300,0.0,Madurai,Web
+1526,2025-10-19,C361,Laptop,Electronics,1,51920,37400,0.2,Hyderabad,Mobile App
+1526,2025-10-19,C361,Sofa Set,Furniture,1,33140,17560,0.3,Hyderabad,Mobile App
+1527,2026-02-19,C191,Sofa Set,Furniture,1,32200,18410,0.3, Trichy,Mobile App
+1528,2025-12-04,C408,Smart TV,Electronics,1,35900,25280,0.1,Chennai,Mobile App
+1529,2026-06-26,C495,Tablet,Electronics,1,17800,12420,0.0,Chennai,Mobile App
+1530,2025-11-10,C135,Study Table,Furniture,4,5790,3320,0.2,Chennai,Web
+1530,2025-11-10,C135,Power Bank,Electronics,2,1450,1020,0.25,Chennai,Web
+1531,2025-10-26,C550,Formal Shirt,Apparel,1,1410,610,0.3,Chennai,Web
+1532,2025-12-31,C304,Smart TV,Electronics,1,33950,23650,0.0,Madurai,Web
+1533,2026-04-12,C060,Smartwatch,Electronics,1,8240,5800,0.1,Coimbatore,Web
+1534,2026-08-18,C197,Sunglasses,Accessories,1,1270,630,0.2,Chennai,Web
+1535,2026-02-02,C367,T-Shirt,Apparel,4,700,310,0.0,Hyderabad,Mobile App
+1535,02-02-2026,C367,Wallet,Accessories,3,790,370,0.3,Hyderabad,Mobile App
+1536,2026-02-26,C286,Phone,Electronics,1,19810,14540,0.2,Hyderabad,Mobile App
+1536,2026-02-26,C286,Bed Frame,Furniture,1,17460,9260,0.0,Hyderabad,Mobile App
+1537,2026-08-20,C634,Water Purifier,Home & Kitchen,3,12200,7580,0.2,Chennai,Mobile App
+1538,2026-02-09,C621,Laptop Sleeve,Accessories,1,930,460,0.2,Madurai,Web
+1539,2026-08-10,C434,Smart TV,Electronics,2,33820,24820,0.05,Hyderabad,Web
+1540,2025-09-24,C130,Bed Frame,Furniture,1,18540,10900,0.05,Chennai,Mobile App
+1541,2026-05-17,C203,Phone Case,Accessories,2,410,200,0.1,Salem,Mobile App
+1542,2026-07-27,C249,Formal Shirt,Apparel,3,1440,640,0.15,Kochi,Mobile App
+1542,2026-07-27,C249,Dinner Set,Home & Kitchen,2,1940,1210,0.3, Kochi,Mobile App
+1543,2026-08-16,C360,Wallet,Accessories,2,800,380,0.0,Chennai,Mobile App
+1543,2026-08-16,C360,Office Chair,Furniture,2,7340,3920,0.05,Chennai,Mobile App
+1544,2026-07-28,C391,Saree,Apparel,1,3390,1450,0.05,Chennai,Web
+1544,2026-07-28,C391,Saree,Apparel,1,3390,1450,0.05,Chennai,Web
+1545,2026-05-19,C134,Bluetooth Speaker,Electronics,3,3620,2640,0.0,Bengaluru,Mobile App
+1546,2026-01-18,C119,Headphones,Electronics,1,2520,1790,0.0,Madurai,Mobile App
+1547,2026-07-19,C557,Smart TV,Electronics,1,34980,24310,0.05,Trichy,Web
+1548,2025-10-11,C503,Mixer Grinder,Home & Kitchen,1,4110,2600,0.15,Bengaluru,Mobile App
+1549,2025-10-24,C523,Sofa Set,Furniture,1,32870,17740,0.1,Hyderabad,Mobile App
+1549,2025-10-24,C523,Sofa Set,Furniture,1,32870,17740,0.1,Hyderabad,Mobile App
+1550,2025-12-06,C403,Phone,Electronics,1,19260,13750,0.3,Chennai,Mobile App
+1551,2025-10-19,C535,Mixer Grinder,Home & Kitchen,2,4120,2620,0.25,Hyderabad,Web
+1552,2026-05-10,C019,T-Shirt,Apparel,4,700,330,0.1,Madurai  ,Web
+1552,2026-05-10,C019,Phone,Electronics,1,19370,13390,0.15,Madurai,Web
+1553,2026-05-30,C005,Headphones,Electronics,1,2600,1910,0.1,Chennai,Web
+1554,2026-01-31,C405,Phone,Electronics,1,20020,14110,0.25,Hyderabad,Mobile App
+1555,2026-08-27,C350,Phone,Electronics,1,20330,15020,0.15,Salem,Web
+1556,2026-08-27,C318,Tablet,Electronics,3,17470,12090,0.3,Madurai,Mobile App
+1557,2025-12-29,C409,Laptop,Electronics,1,49630,35160,0.05,Chennai,Mobile App
+1558,2025-11-29,C631,Mixer Grinder,Home & Kitchen,1,4130,2590,0.1,,Mobile App
+1559,2025-12-26,C451,Laptop,Electronics,1,48210,35420,0.15,Hyderabad,Web
+1560,2026-07-26,C107,Wallet,Accessories,1,790,370,0.0,Bengaluru,Web
+1561,2026-03-07,C510,Jacket,Apparel,2,2770,1270,0.1,Bengaluru,Mobile App
+1562,2026-04-17,C291,T-Shirt,Apparel,1,680,310,0.15,Bengaluru,Web
+1563,2026-07-27,C338,Dinner Set,Home & Kitchen,2,1960,1200,0.05,Coimbatore,Mobile App
+1564,2026-05-15,C107,Pressure Cooker,Home & Kitchen,2,1540,960,0.05,Bengaluru,Mobile App
+1565,2026-07-13,C419,Smart TV,Electronics,1,34770,25930,0.0,Salem,Mobile App
+1565,2026-07-13,C419,Phone Case,Accessories,3,410,200,0.25,Salem,Mobile App
+1566,2026-03-28,C024,Laptop,Electronics,1,50260,37070,0.2,Salem ,Mobile App
+1567,2025-12-19,C589,Power Bank,Electronics,1,1470,1030,0.05,Chennai,Mobile App
+1567,2025-12-19,C589,Belt,Accessories,2,580,290,0.2,Chennai,Mobile App
+1568,2026-05-04,C239,Wardrobe,Furniture,1,22370,12560,0.0,Kochi,Mobile App
+1568,2026-05-04,C239,Dinner Set,Home & Kitchen,1,1910,1180,0.05,Kochi,Mobile App
+1569,2025-09-16,C362,Sunglasses,Accessories,3,1280,640,0.05,Madurai,Web
+1569,2025-09-16,C362,Formal Shirt,Apparel,2,1400,570,0.15,Madurai,Web
+1570,2025-12-10,C031,Laptop,Electronics,1,51260,37900,0.3,Salem,Web
+1570,2025-12-10,C031,Study Table,Furniture,1,6110,3390,0.05,Salem,Web
+1571,2025-10-23,C379,Phone Case,Accessories,1,410,200,0.2,Hyderabad,Mobile App
+1572,2025-12-14,C225,Mixer Grinder,Home & Kitchen,1,4220,2780,0.05,Coimbatore,Mobile App
+1572,2025-12-14,C225,Bookshelf,Furniture,1,4610,2650,0.0,Coimbatore,Mobile App
+1573,2026-05-15,C592,Smart TV,Electronics,1,34110,23910,0.05,Hyderabad,Web
+1573,2026-05-15,C592,Bed Frame,Furniture,1,18330,10430,0.0,Hyderabad,Web
+1574,2025-10-23,C249,Smart TV,Electronics,1,33800,23820,0.3,Kochi,Web
+1574,2025-10-23,C249,Smart TV,Electronics,1,33800,23820,0.3,Kochi,Web
+1575,2025-10-06,C512,Formal Shirt,Apparel,1,1410,610,0.25,Bengaluru,Mobile App
+1575,2025-10-06,C512,Saree,Apparel,1,3540,1460,0.0,Bengaluru,Mobile App
+1576,2025-10-16,C521,Belt,Accessories,3,620,280,0.1,Salem,Mobile App
+1577,2026-05-08,C470,Study Table,Furniture,1,5970,3220,0.0,Coimbatore,Web
+1578,2025-09-23,C377,Phone,Electronics,1,20520,14290,0.15,Coimbatore,Mobile App
+1578,2025-09-23,C377,Phone,Electronics,1,20520,14290,0.15,Coimbatore,Mobile App
+1579,2026-06-27,C315,T-Shirt,Apparel,4,690,320,0.0,COIMBATORE,Web
+1579,2026-06-27,C315,Laptop,Electronics,1,49710,34740,0.05,Coimbatore,Web
+1580,2025-10-21,C126,Wallet,Accessories,1,790,380,0.3,Hyderabad,Web
+1581,2026-07-31,C358,Phone,Electronics,1,20050,14560,0.05,Bengaluru,Mobile App
+1582,2026-04-23,C486,Headphones,Electronics,2,2420,1800,0.3,Salem,Web
+1582,2026-04-23,C486,Formal Shirt,Apparel,1,1420,590,0.3,Salem,Web
+1583,2025-10-17,C230,Power Bank,Electronics,1,1530,1130,0.0,Salem,Mobile App
+1584,2026-03-18,C550,Smart TV,Electronics,1,36390,25510,0.1,Chennai,Mobile App
+1585,2025-12-28,C609,Jeans,Apparel,2,1780,820,0.05,Salem,Mobile App
+1586,2025-12-27,C476,Office Chair,Furniture,1,7690,4250,0.05,Chennai,Mobile App
+1587,2026-03-18,C084,Dinner Set,Home & Kitchen,4,1860,1130,0.0,Coimbatore,Mobile App
+1587,2026-03-18,C084,Study Table,Furniture,1,6220,3640,0.05,Coimbatore ,Mobile App
+1588,2026-07-02,C613,Smartwatch,Electronics,3,7770,5760,0.3,Madurai,Mobile App
+1589,2026-06-24,C627,Belt,Accessories,1,610,290,0.3,Bengaluru,Web
+1590,2025-12-11,C220,Smart TV,Electronics,1,35940,26680,0.1,Chennai,Mobile App
+1591,2025-10-02,C093,Formal Shirt,Apparel,3,1360,570,0.25,Salem,Web
+1592,2026-05-05,C062,Headphones,Electronics,1,2560,1870,0.05,chennai ,Web
+1593,2026-07-15,C133,Office Chair,Furniture,1,7210,4180,0.2,Chennai,Web
+1593,2026-07-15,C133,Study Table,Furniture,1,6160,3600,0.15,Chennai,Web
+1594,2025-12-28,C296,Office Chair,Furniture,1,7790,4190,0.1,Hyderabad,Web
+1594,2025-12-28,C296,Tablet,Electronics,1,17540,12890,0.25,Hyderabad,Web
+1594,2025-12-28,C296,Formal Shirt,Apparel,3,1400,600,0.25,Hyderabad,Web
+1595,2025-10-20,C091,Phone,Electronics,1,19370,13460,0.3,Bengaluru,Mobile App
+1596,2025-09-12,C388,Smart TV,Electronics,1,35270,25940,0.15,Salem,Web
+1597,2026-04-12,C612,Phone Case,Accessories,4,400,190,0.0,Hyderabad,Web
+1598,2025-11-24,C322,Headphones,Electronics,1,2460,1760,0.25,Bengaluru,Mobile App
+1599,2026-05-15,C284,Phone,Electronics,1,20140,14360,0.25,Chennai,Mobile App
+1599,2026-05-15,C284,Smart TV,Electronics,1,34740,25520,0.25,Chennai,Mobile App
+1600,2025-11-18,C205,T-Shirt,Apparel,4,680,310,0.25,Trichy,Web
+1601,2026-04-18,C003,Belt,Accessories,3,600,300,0.25,Chennai,Mobile App
+1602,2025-11-30,C389,Headphones,Electronics,3,2570,1840,0.25,Hyderabad,Mobile App
+1602,2025-11-30,C389,Headphones,Electronics,3,2570,1840,0.25,Hyderabad,Mobile App
+1603,2025-12-16,C303,Smart TV,Electronics,1,34030,24760,0.25,Coimbatore,Web
+1604,2025-10-16,C592,Belt,Accessories,1,610,280,0.1,Hyderabad,Mobile App
+1604,2025-10-16,C592,Belt,Accessories,1,610,280,0.1,Hyderabad,Mobile App
+1605,2026-08-05,C072,Headphones,Electronics,2,2420,1700,0.05,Hyderabad,Web
+1606,2026-01-24,C304,Mixer Grinder,Home & Kitchen,2,4080,2520,0.0,Madurai,Web
+1606,2026-01-24,C304,T-Shirt,Apparel,4,690,320,0.0,Madurai,Web
+1607,2025-12-09,C319,Cookware Set,Home & Kitchen,2,2830,1840,0.05,Coimbatore,Mobile App
+1607,2025-12-09,C319,Headphones,Electronics,1,2540,1830,0.25,Coimbatore,Mobile App
+1607,2025-12-09,C319,Headphones,Electronics,1,2540,1830,0.25,Coimbatore,Mobile App
+1607,2025-12-09,C319,Formal Shirt,Apparel,1,1340,620,0.0,Coimbatore,Mobile App
+1608,2025-12-20,C286,Wardrobe,Furniture,1,21280,11870,0.25,Hyderabad,Web
+1609,2026-01-19,C172,Bluetooth Speaker,Electronics,2,3640,2620,0.15,Chennai,Web
+1609,2026-01-19,C172,Sunglasses,Accessories,1,1340,660,0.05,Chennai,Web
+1610,2025-11-15,C209,Wardrobe,Furniture,1,22250,12220,0.15,Chennai,Web
+1611,2025-12-13,C375,Sofa Set,Furniture,1,31930,17030,0.25,Hyderabad,Mobile App
+1612,2026-04-29,C493,Smart TV,Electronics,1,33790,24140,0.2,Bengaluru,Web
+1613,2026-07-11,C143,Smartwatch,Electronics,2,8210,5710,0.1,,Mobile App
+1614,2026-05-25,C553,Power Bank,Electronics,1,1500,1100,0.2,Coimbatore,Web
+1615,2025-12-05,C164,Laptop,Electronics,1,51130,37110,0.2,Coimbatore,Mobile App
+1616,2026-04-04,C048,Wardrobe,Furniture,1,21380,12440,0.3,Bengaluru,Web
+1616,2026-04-04,C048,Power Bank,Electronics,1,1500,1040,0.25,Bengaluru,Web
+1616,2026-04-04,C048,Laptop Sleeve,Accessories,1,920,450,0.0,Bengaluru,Web
+1617,2025-10-12,C072,Bookshelf,Furniture,1,4330,2510,0.25,Hyderabad,Web
+1617,2025-10-12,C072,Smart TV,Electronics,1,34210,25610,0.2,Hyderabad,Web
+1617,2025-10-12,C072,Bookshelf,Furniture,1,4330,2510,0.25,Hyderabad,Web
+1617,2025-10-12,C072,Phone,Electronics,2,19800,14080,0.3,Hyderabad,Web
+1618,2026-02-09,C184,Mixer Grinder,Home & Kitchen,1,4190,2660,0.1,Bengaluru,Mobile App
+1618,2026-02-09,C184,Office Chair,Furniture,1,7660,4110,0.05,Bengaluru,Mobile App
+1618,2026-02-09,C184,Office Chair,Furniture,1,7660,4110,0.05,Bengaluru,Mobile App
+1619,2025-10-23,C405,Headphones,Electronics,1,2570,1880,0.15,Hyderabad,Mobile App
+1620,2026-04-05,C145,Phone Case,Accessories,3,410,190,0.1,Bengaluru,Mobile App
+1620,2026-04-05,C145,Power Bank,Electronics,3,1500,1100,0.0,Bengaluru,Mobile App
+1621,2026-01-06,C133,Smartwatch,Electronics,1,7950,5590,0.1,Chennai,Mobile App
+1622,2025-10-27,C063,Belt,Accessories,4,620,290,0.2,Chennai,Mobile App
+1623,2026-05-20,C595,Tablet,Electronics,1,17690,13140,0.25,Chennai,Web
+1624,2026-06-10,C261,Backpack,Accessories,1,1490,670,0.05,Chennai,Web
+1625,2026-06-19,C623,Headphones,Electronics,1,2590,1940,0.3,Coimbatore,Mobile App
+1626,2025-10-26,C465,Phone,Electronics,1,20650,14890,0.05,Hyderabad,Mobile App
+1626,2025-10-26,C465,Jeans,Apparel,2,1810,760,0.3,Hyderabad,Mobile App
+1627,2026-06-13,C433,Jeans,Apparel,1,1850,830,0.15,Chennai,Mobile App
+1628,2026-08-10,C049,Sofa Set,Furniture,1,32330,18290,0.15,Chennai,Web
+1628,2026-08-10,C049,Sofa Set,Furniture,1,32330,18290,0.15,Chennai,Web
+1629,2026-07-31,C208,Jacket,Apparel,2,2720,1190,0.1,Coimbatore,Web
+1630,2025-11-06,C023,Study Table,Furniture,3,5880,3390,0.2,Hyderabad,Mobile App
+1631,2026-04-20,C103,Microwave,Home & Kitchen,1,9610,6200,0.1,Kochi,Web
+1631,2026-04-20,C103,Water Purifier,Home & Kitchen,2,11620,7290,0.0,Kochi,Web
+1631,2026-04-20,C103,Bed Frame,Furniture,1,17800,10330,0.05,Kochi,Web
+1632,2025-09-10,C007,Smart TV,Electronics,1,35520,25310,0.3,Coimbatore,Web
+1632,2025-09-10,C007,Formal Shirt,Apparel,1,1360,560,0.15,COIMBATORE,Web
+1632,2025-09-10,C007,Water Purifier,Home & Kitchen,3,11550,7720,0.1,Coimbatore,Web
+1633,2026-04-03,C364,Jacket,Apparel,1,2900,1220,0.0,Bengaluru,Mobile App
+1634,2026-02-15,C626,Laptop Sleeve,Accessories,5,880,420,0.05,Chennai,Web
+1634,2026-02-15,C626,Phone,Electronics,1,19550,13870,0.2,Chennai,Web
+1634,2026-02-15,C626,Laptop Sleeve,Accessories,5,880,420,0.05,Chennai,Web
+1635,2026-03-07,C533,Bed Frame,Furniture,1,18020,9980,0.0,Chennai,Web
+1635,2026-03-07,C533,Cookware Set,Home & Kitchen,1,2890,1810,0.15,Chennai,Web
+1636,2026-05-30,C354,Formal Shirt,Apparel,2,1410,630,0.15,Chennai,Web
+1636,2026-05-30,C354,Wallet,Accessories,2,800,400,0.15,Chennai,Web
+1637,2025-12-11,C323,Phone,Electronics,1,19250,13870,0.1,Chennai,Mobile App
+1638,2026-06-23,C200,Headphones,Electronics,1,2410,1690,0.25,Chennai,Mobile App
+1638,2026-06-23,C200,Smart TV,Electronics,1,35440,25240,0.0,Chennai,Mobile App
+1639,2025-11-25,C007,Wardrobe,Furniture,1,22520,13150,0.1,Coimbatore,Web
+1640,2026-03-28,C378,Smartwatch,Electronics,2,8070,6000,0.0,Bengaluru,Mobile App
+1641,2026-07-19,C054,Phone Case,Accessories,1,400,180,0.05,Kochi,Web
+1641,2026-07-19,C054,Bluetooth Speaker,Electronics,3,3450,2420,0.15,Kochi,Web
+1642,2025-12-14,C264,Mixer Grinder,Home & Kitchen,3,4320,2890,0.05,Coimbatore,Mobile App
+1643,2026-06-29,C455,Jeans,Apparel,2,1830,780,0.1,,Web
+1643,2026-06-29,C455,Sunglasses,Accessories,1,1250,610,0.0,,Web
+1644,2026-03-09,C499,Power Bank,Electronics,3,1520,1090,0.3,Chennai,Web
+1645,2025-10-11,C097,Laptop,Electronics,1,48190,33280,0.15,Salem,Web
+1646,2026-05-01,C084,Phone,Electronics,1,20640,14700,0.3,Coimbatore,Web
+1647,2026-08-05,C345,Jeans,Apparel,1,1740,810,0.05,Salem,Mobile App
+1648,2026-04-02,C496,Phone,Electronics,1,19420,13940,0.25,Madurai,Mobile App
+1649,2026-05-25,C084,Power Bank,Electronics,2,1490,1040,0.15,Coimbatore,Mobile App
+1649,2026-05-25,C084,Mixer Grinder,Home & Kitchen,2,4360,2740,0.05,Coimbatore,Mobile App
+1649,2026-05-25,C084,Smartwatch,Electronics,1,7870,5470,0.25,Coimbatore,Mobile App
+1650,2026-04-20,C060,Smart TV,Electronics,1,36320,25190,0.05,Coimbatore,Mobile App
+1651,2026-06-20,C436,Tablet,Electronics,1,18130,13080,0.25,Chennai,Web
+1652,2025-11-23,C020,Office Chair,Furniture,1,7750,4210,0.3,Chennai,Mobile App
+1653,2026-07-10,C604,Phone,Electronics,1,19640,13750,0.25,Trichy,Mobile App
+1653,2026-07-10,C604,Mixer Grinder,Home & Kitchen,2,4080,2700,0.05,Trichy,Mobile App
+1654,2026-07-20,C310,Mixer Grinder,Home & Kitchen,3,4180,2620,0.0,Coimbatore,Web
+1655,2025-12-31,C118,Office Chair,Furniture,1,7230,3950,0.1,Salem,Web
+1656,2026-05-17,C610,Power Bank,Electronics,2,1510,1090,0.1,Bengaluru,Web
+1657,2026-04-28,C341,Tablet,Electronics,1,17360,12020,0.0,Chennai,Mobile App
+1657,2026-04-28,C341,Smart TV,Electronics,1,34230,24890,0.1,Chennai,Mobile App
+1658,2026-05-18,C043,Tablet,Electronics,1,18410,13090,0.15,Madurai,Mobile App
+1659,2026-05-18,C250,Dinner Set,Home & Kitchen,3,1900,1190,0.05,Chennai,Web
+1660,2025-11-24,C457,Backpack,Accessories,2,1460,660,0.1,Chennai,Web
+1661,2025-10-23,C438,Cookware Set,Home & Kitchen,4,2880,1860,0.2,Coimbatore,Web
+1662,2026-02-01,C501,Formal Shirt,Apparel,4,1410,660,0.1,Bengaluru,Web
+1663,2025-10-21,C636,Bluetooth Speaker,Electronics,2,3570,2560,0.3,Kochi,Web
+1664,2025-11-10,C581,Laptop,Electronics,1,49410,36200,0.25,Chennai,Mobile App
+1665,2026-07-05,C286,Phone,Electronics,1,20300,14890,0.3,Hyderabad,Mobile App
+1666,2026-07-05,C468,Bed Frame,Furniture,3,17630,10130,0.05,Madurai,Mobile App
+1667,2026-05-22,C389,Mixer Grinder,Home & Kitchen,2,4360,2890,0.25,Hyderabad,Web
+1667,2026-05-22,C389,T-Shirt,Apparel,5,690,300,0.05,Hyderabad,Web
+1667,2026-05-22,C389,Sofa Set,Furniture,1,33170,18630,0.1,Hyderabad,Web
+1668,2025-09-17,C433,Microwave,Home & Kitchen,3,9450,6020,0.2,Chennai,Mobile App
+1669,2025-11-18,C319,Cookware Set,Home & Kitchen,4,2790,1730,0.2,Coimbatore,Mobile App
+1670,2026-04-22,C007,Jeans,Apparel,1,1730,710,0.15,Coimbatore,Web
+1671,2025-09-22,C319,Mixer Grinder,Home & Kitchen,1,4030,2520,0.05,Coimbatore,Web
+1672,2026-07-06,C530,Phone,Electronics,2,19340,13660,0.05,Salem,Mobile App
+1672,2026-07-06,C530,Water Purifier,Home & Kitchen,1,11600,7230,0.05,Salem,Mobile App
+1673,2026-06-17,C249,Belt,Accessories,1,580,270,0.05,Kochi,Mobile App
+1674,2026-03-12,C231,Bookshelf,Furniture,1,4570,2480,0.1,Bengaluru,Mobile App
+1675,2025-11-21,C641,Microwave,Home & Kitchen,2,9530,6030,0.15,Madurai,Web
+1676,2025-10-15,C087,Laptop Sleeve,Accessories,2,920,440,0.15,Madurai,Web
+1677,2025-12-23,C405,Wallet,Accessories,3,790,390,0.05,Hyderabad,Web
+1678,2025-11-07,C517,Study Table,Furniture,2,6030,3300,0.1,Trichy,Mobile App
+1679,2025-12-21,C337,Mixer Grinder,Home & Kitchen,1,4140,2550,0.1,Chennai,Web
+1679,2025-12-21,C337,T-Shirt,Apparel,1,700,290,0.25,Chennai,Web
+1680,28-11-2025,C078,Cookware Set,Home & Kitchen,1,2850,1750,0.05,Chennai,Web
+1680,28-11-2025,C078,Jacket,Apparel,2,2800,1190,0.25,Chennai,Web
+1681,2025-11-21,C270,Kurta,Apparel,1,1190,490,0.15,Madurai,Web
+1681,2025-11-21,C270,Water Purifier,Home & Kitchen,-1,11640,7170,0.15,Madurai,Web
+1681,2025-11-21,C270,Laptop,Electronics,1,49940,36520,0.0,Madurai,Web
+1682,2026-08-23,C443,Sofa Set,Furniture,1,32350,17500,0.1,Chennai,Mobile App
+1682,2026-08-23,C443,Study Table,Furniture,2,6150,3510,0.1,Chennai,Mobile App
+1683,2025-10-22,C312,Bed Frame,Furniture,3,17700,10090,0.15,Chennai,Mobile App
+1684,2026-04-23,C462,Phone,Electronics,1,19870,14220,0.15,Chennai,Web
+1684,2026-04-23,C462,Bookshelf,Furniture,2,4320,2370,0.2,Chennai,Web
+1685,2026-04-05,C111,Belt,Accessories,1,600,300,0.3,Chennai,Web
+1685,2026-04-05,C111,Headphones,Electronics,1,2570,1850,0.2,Chennai,Web
+1686,2025-12-17,C461,Headphones,Electronics,2,2540,1800,0.25,Coimbatore,Web
+1687,15-11-2025,C113,Power Bank,Electronics,1,1550,1130,0.2,Madurai,Mobile App
+1688,2026-04-20,C525,Jeans,Apparel,1,1800,750,0.3,Bengaluru,Mobile App
+1688,2026-04-20,C525,Headphones,Electronics,1,2520,1800,0.25,Bengaluru,Mobile App
+1688,2026-04-20,C525,Phone,Electronics,2,19350,13470,0.15,Bengaluru,Mobile App
+1689,2026-05-27,C085,Jacket,Apparel,2,2780,1150,0.0,Chennai,Mobile App
+1689,2026-05-27,C085,Pressure Cooker,Home & Kitchen,1,1570,1040,0.25,Chennai,Mobile App
+1689,2026-05-27,C085,Jacket,Apparel,2,2780,1150,0.0,Chennai,Mobile App
+1690,2026-07-02,C389,Headphones,Electronics,1,2600,1880,0.05,Hyderabad,Web
+1690,2026-07-02,C389,Water Purifier,Home & Kitchen,1,12330,8200,0.15,Hyderabad,Web
+1691,2026-01-03,C532,Phone,Electronics,1,20500,15140,0.15,Hyderabad,Web
+1692,2026-04-08,C580,Formal Shirt,Apparel,2,1440,620,0.15,Coimbatore,Mobile App
+1693,2025-09-30,C363,Backpack,Accessories,3,1520,730,0.1,Madurai,Web
+1693,2025-09-30,C363,Wardrobe,Furniture,1,21740,12330,0.0,Madurai,Web
+1694,2025-09-28,C061,Smart TV,Electronics,1,33820,24920,0.0,Trichy ,Web
+1695,2025-11-04,C540,Tablet,Electronics,1,18630,13890,0.25,Hyderabad,Mobile App
+1696,2025-09-28,C599,Sunglasses,Accessories,2,1280,580,0.05,Madurai,Mobile App
+1696,2025-09-28,C599,Smart TV,Electronics,2,35210,26100,0.15,Madurai,Mobile App
+1696,2025-09-28,C599,Power Bank,Electronics,1,1450,1060,0.15,Madurai,Mobile App
+1697,2025-11-29,C245,Study Table,Furniture,1,6110,3580,0.25,Madurai,Mobile App
+1698,2025-11-05,C517,Wallet,Accessories,1,810,390,0.15,Trichy,Web
+1698,2025-11-05,C517,Backpack,Accessories,1,1520,750,0.3,Trichy,Web
+1699,2025-11-14,C041,Office Chair,Furniture,1,7590,4220,0.25,Bengaluru,Web
+1700,2026-08-19,C597,Saree,Apparel,3,3590,1590,0.15,Coimbatore,Web
+1701,2026-05-19,C362,Saree,Apparel,1,3550,1550,0.0,Madurai,Mobile App
+1702,2026-01-03,C508,Headphones,Electronics,1,2440,1750,0.05,Trichy,Mobile App
+1702,2026-01-03,C508,Bookshelf,Furniture,2,4680,2480,0.15,Trichy,Mobile App
+1702,2026-01-03,C508,Water Purifier,Home & Kitchen,2,11740,7690,0.2,trichy,Mobile App
+1703,2025-10-01,C273,Laptop,Electronics,1,49400,36030,0.15,Salem,Web
+1704,2026-03-30,C573,Smart TV,Electronics,1,34300,24790,0.2,,Mobile App
+1705,2025-12-06,C439,Pressure Cooker,Home & Kitchen,1,1660,1090,0.15,Chennai,Mobile App
+1706,2026-02-23,C021,Office Chair,Furniture,2,7230,4220,0.1,Bengaluru  ,Web
+1706,2026-02-23,C021,Smartwatch,Electronics,3,7810,5450,0.05,Bengaluru,Web
+1707,2026-05-21,C367,Formal Shirt,Apparel,3,1360,640,0.15,Hyderabad,Web
+1708,2026-01-12,C477,Laptop,Electronics,1,49110,35020,0.0,Coimbatore,Web
+1709,2025-11-16,C479,T-Shirt,Apparel,1,690,280,0.05,Bengaluru,Mobile App
+1710,2025-12-30,C005,Study Table,Furniture,2,5930,3150,0.2,Chennai,Web
+1711,2026-08-01,C001,Sofa Set,Furniture,1,32590,18710,0.0,Madurai,Mobile App
+1711,2026-08-01,C001,Water Purifier,Home & Kitchen,2,12250,7720,0.1,Madurai,Mobile App
+1712,2025-12-16,C165,T-Shirt,Apparel,2,720,320,0.15,Hyderabad,Mobile App
+1713,2026-02-19,C061,Jacket,Apparel,1,2900,1210,0.2,Trichy,Web
+1714,2026-08-11,C106,Study Table,Furniture,2,5920,3280,0.05,Coimbatore,Web
+1715,2026-04-20,C377,Phone,Electronics,1,19940,14280,0.3,Coimbatore,Mobile App
+1715,2026-04-20,C377,Water Purifier,Home & Kitchen,1,11640,7500,0.05,Coimbatore,Mobile App
+1716,2026-01-28,C197,Smart TV,Electronics,1,36230,25600,0.1,Chennai,Mobile App
+1717,2025-09-27,C412,Smartwatch,Electronics,1,8240,5750,0.05,Chennai,Web
+1717,2025-09-27,C412,Microwave,Home & Kitchen,1,9160,5650,0.15,Chennai,Web
+1718,2026-07-07,C144,Pressure Cooker,Home & Kitchen,1,1540,1010,0.05,Coimbatore,Mobile App
+1719,2026-04-27,C309,Pressure Cooker,Home & Kitchen,1,1610,1020,0.1,BENGALURU,Mobile App
+1719,2026-04-27,C309,Pressure Cooker,Home & Kitchen,1,1610,1020,0.1,BENGALURU,Mobile App
+1720,2026-02-14,C513,Headphones,Electronics,2,2560,1830,0.25,Chennai,Web
+1721,2025-10-16,C244,Microwave,Home & Kitchen,3,9240,5660,0.3,Chennai,Web
+1721,2025-10-16,C244,Headphones,Electronics,1,2480,1810,0.3,Chennai,Web
+1722,2025-09-11,C601,Tablet,Electronics,1,18480,12790,0.1,Kochi,Mobile App
+1722,2025-09-11,C601,Office Chair,Furniture,1,7670,4300,0.05,Kochi,Mobile App
+1723,2026-08-29,C192,Laptop Sleeve,Accessories,2,880,420,0.1,Salem,Web
+1724,2025-12-26,C633,Smartwatch,Electronics,1,8220,5820,0.05,Madurai,Mobile App
+1724,2025-12-26,C633,Office Chair,Furniture,1,7230,4040,0.05,Madurai,Mobile App
+1725,2026-05-30,C293,Jacket,Apparel,2,2710,1150,0.25,Trichy,Web
+1726,2025-12-07,C279,Backpack,Accessories,1,1520,740,0.05,Kochi,Web
+1727,2026-03-15,C570,Study Table,Furniture,1,6130,3400,0.0,Madurai,Mobile App
+1728,2025-11-11,C170,Smart TV,Electronics,1,34780,26050,0.2,,Web
+1729,2026-06-01,C539,Laptop,Electronics,1,48480,34220,0.3,Chennai,Mobile App
+1729,2026-06-01,C539,Jacket,Apparel,1,2720,1120,0.2,Chennai,Mobile App
+1730,2026-08-26,C285,Sunglasses,Accessories,2,1340,630,0.1,Hyderabad,Web
+1730,26-08-2026,C285,Dinner Set,Home & Kitchen,3,1840,1220,0.15,Hyderabad,Web
+1731,2026-04-04,C254,Jacket,Apparel,1,2770,1210,0.1,Coimbatore,Mobile App
+1732,2026-06-27,C386,Phone,Electronics,1,19490,14340,0.3,Madurai,Web
+1733,2025-10-03,C010,Headphones,Electronics,1,2530,1800,0.2,Trichy,Mobile App
+1734,2026-03-22,C499,Bluetooth Speaker,Electronics,3,3460,2500,0.15,Chennai,Mobile App
+1735,2026-06-30,C343,Bluetooth Speaker,Electronics,3,3410,2380,0.2,Madurai,Web
+1736,2026-08-25,C150,Bookshelf,Furniture,1,4540,2430,0.0,Madurai,Web
+1737,2025-11-15,C089,Smartwatch,Electronics,2,8270,6200,0.3,Coimbatore,Web
+1737,2025-11-15,C089,Mixer Grinder,Home & Kitchen,3,4080,2540,0.25,Coimbatore,Web
+1738,2025-09-12,C259,Formal Shirt,Apparel,3,1380,570,0.25,Chennai,Mobile App
+1738,2025-09-12,C259,Study Table,Furniture,2,6140,3260,0.0,Chennai,Mobile App
+1738,2025-09-12,C259,Tablet,Electronics,1,18640,13500,0.15,Chennai,Mobile App
+1739,2026-01-07,C427,T-Shirt,Apparel,1,730,330,0.1,Bengaluru,Web
+1740,2025-10-02,C627,Jeans,Apparel,3,1830,780,0.15,Bengaluru,Mobile App
+1740,2025-10-02,C627,Bluetooth Speaker,Electronics,2,3500,2470,0.2,Bengaluru,Mobile App
+1741,2026-08-04,C040,Kurta,Apparel,1,1220,560,0.15,Madurai,Mobile App
+1742,2025-09-04,C415,Wallet,Accessories,1,810,380,0.2,Salem,Web
+1743,2026-05-17,C123,T-Shirt,Apparel,3,730,340,0.0,Bengaluru,Web
+1744,2025-09-28,C440,Phone,Electronics,1,19870,14020,0.15,Hyderabad,Mobile App
+1745,2026-04-12,C427,Phone,Electronics,1,19680,13850,0.15,Bengaluru,Mobile App
+1746,2026-06-11,C488,Bed Frame,Furniture,2,17420,9350,0.15,Trichy,Web
+1747,2025-11-17,C600,Mixer Grinder,Home & Kitchen,1,4070,2600,0.0,Salem,Mobile App
+1748,2026-05-04,C629,Smartwatch,Electronics,2,8000,5950,0.0,Coimbatore,Mobile App
+1748,2026-05-04,C629,Bed Frame,Furniture,1,18440,10310,0.0,Coimbatore,Mobile App
+1749,2026-05-31,C346,Power Bank,Electronics,4,1490,1060,0.05,Coimbatore,Web
+1750,2026-05-16,C452,Microwave,Home & Kitchen,1,9840,6360,0.15,Bengaluru,Web
+1750,2026-05-16,C452,Bluetooth Speaker,Electronics,1,3470,2510,0.05,Bengaluru,Web
+1751,2025-09-09,C051,Mixer Grinder,Home & Kitchen,1,4210,2660,0.0,Bengaluru,Mobile App
+1751,2025-09-09,C051,Smart TV,Electronics,1,35570,26490,0.15,Bengaluru,Mobile App
+1752,2026-02-28,C424,Jeans,Apparel,1,1860,800,0.2,Kochi,Mobile App
+1753,2026-08-07,C075,Laptop Sleeve,Accessories,2,870,410,0.0,Bengaluru,Web
+1754,2025-11-21,C458,Smartwatch,Electronics,2,7850,5470,0.25,Coimbatore,Web
+1754,2025-11-21,C458,Phone,Electronics,1,20380,14390,0.0,Coimbatore,Web
+1755,2026-05-13,C564,Laptop,Electronics,1,51320,37270,0.2,Kochi,Mobile App
+1756,2026-06-09,C186,Bluetooth Speaker,Electronics,1,3450,2490,0.05,,Web
+1757,2025-10-29,C242,Wardrobe,Furniture,2,21630,11580,0.15,Coimbatore,Web
+1758,2026-01-30,C334,Smartwatch,Electronics,1,7690,5540,0.1,Bengaluru,Mobile App
+1759,2026-03-05,C418,Phone Case,Accessories,2,400,190,0.1,Chennai,Web
+1760,2026-04-13,C497,Phone Case,Accessories,4,390,180,0.1,Bengaluru,Web
+1760,2026-04-13,C497,Smartwatch,Electronics,1,7770,5650,0.2,Bengaluru,Web
+1761,2026-03-14,C206,Smartwatch,Electronics,1,7880,5600,0.1,Hyderabad,Web
+1761,2026-03-14,C206,Bookshelf,Furniture,2,4470,2370,0.15,Hyderabad,Web
+1762,2026-06-10,C471,Mixer Grinder,Home & Kitchen,2,4140,2700,0.25,Madurai,Mobile App
+1763,2026-08-27,C440,Dinner Set,Home & Kitchen,1,1880,1230,0.2,Hyderabad,Web
+1764,2025-10-21,C550,Smartwatch,Electronics,1,8270,6040,0.2,Chennai,Web
+1764,2025-10-21,C550,Jacket,Apparel,1,2810,1220,0.15,Chennai,Web
+1764,2025-10-21,C550,Laptop,Electronics,1,49700,34800,0.2,Chennai  ,Web
+1765,2025-12-11,C106,Office Chair,Furniture,2,7320,4150,0.05,Coimbatore,Mobile App
+1766,2025-11-09,C039,Formal Shirt,Apparel,1,1350,590,0.0,Trichy,Mobile App
+1766,2025-11-09,C039,Sunglasses,Accessories,1,1320,660,0.15,Trichy,Mobile App
+1766,2025-11-09,C039,Phone Case,Accessories,3,390,180,0.15,Trichy,Mobile App
+1767,2025-11-28,C369,Phone,Electronics,1,19760,14300,0.2,Coimbatore,Web
+1768,2026-08-02,C451,T-Shirt,Apparel,3,700,300,0.1,hyderabad,Web
+1768,2026-08-02,C451,Smartwatch,Electronics,1,8030,5860,0.05,Hyderabad,Web
+1769,2026-05-17,C391,Smart TV,Electronics,1,35830,25990,0.1,Chennai,Web
+1770,2026-06-01,C631,Formal Shirt,Apparel,2,1440,650,0.0,Kochi,Mobile App
+1771,2026-06-06,C186,Jeans,Apparel,3,1750,730,0.05,Madurai,Mobile App
+1772,2026-07-21,C526,Sofa Set,Furniture,1,32420,17820,0.0,Chennai,Web
+1773,2026-03-11,C011,Wardrobe,Furniture,1,21670,12160,0.2,Chennai,Web
+1774,2026-06-30,C603,Jeans,Apparel,1,1830,810,0.05,Coimbatore,Mobile App
+1774,2026-06-30,C603,Kurta,Apparel,2,1220,560,0.1,coimbatore,Mobile App
+1774,2026-06-30,C603,Laptop,Electronics,1,49460,35510,0.2,Coimbatore,Mobile App
+1775,2025-10-31,C603,Headphones,Electronics,2,2450,1830,0.0,Coimbatore,Mobile App
+1775,2025-10-31,C603,Sofa Set,Furniture,1,32070,17010,0.0,Coimbatore,Mobile App
+1775,2025-10-31,C603,Laptop Sleeve,Accessories,3,890,410,0.0,Coimbatore,Mobile App
+1776,2025-11-15,C511,Dinner Set,Home & Kitchen,4,1860,1200,0.25,Chennai,Mobile App
+1777,2026-07-08,C052,Formal Shirt,Apparel,4,1350,560,0.0,Kochi,Mobile App
+1777,2026-07-08,C052,Jacket,Apparel,1,2880,1200,0.25,Kochi,Mobile App
+1777,2026-07-08,C052,Microwave,Home & Kitchen,2,9490,6060,0.2,Kochi,Mobile App
+1778,2026-10-20,C180,Smart TV,Electronics,1,35120,26310,0.2,Trichy,Mobile App
+1779,2025-09-07,C137,Bluetooth Speaker,Electronics,2,3560,2650,0.3,coimbatore ,Mobile App
+1779,2025-09-07,C137,Office Chair,Furniture,2,7760,4300,0.1,Coimbatore,Mobile App
+1780,2025-09-27,C347,Pressure Cooker,Home & Kitchen,1,1550,990,0.0,Chennai,Mobile App
+1781,2026-02-11,C236,Bookshelf,Furniture,1,4570,2580,0.0,Salem,Web
+1781,2026-02-11,C236,Kurta,Apparel,2,1150,490,0.05,Salem,Web
+1782,2025-10-04,C122,Water Purifier,Home & Kitchen,2,12450,8170,0.05,Coimbatore,Mobile App
+1783,2025-12-12,C538,Smartwatch,Electronics,2,8220,5990,0.05,Hyderabad,Web
+1783,2025-12-12,C538,Jacket,Apparel,2,2720,1120,0.0,Hyderabad,Web
+1784,2025-10-15,C571,Phone,Electronics,1,20610,14440,0.25,Coimbatore,Web
+1785,2025-11-12,C479,Headphones,Electronics,2,2530,1810,0.3,Bengaluru,Mobile App
+1786,2025-09-15,C217,Study Table,Furniture,1,5860,3350,0.15,Salem,Mobile App
+1787,2026-06-11,C564,Office Chair,Furniture,1,7700,4450,0.15,Kochi,Web
+1787,2026-06-11,C564,Smartwatch,Electronics,1,7980,5520,0.2,Kochi,Web
+1788,2025-10-25,C209,Headphones,Electronics,1,2480,1800,0.25,Chennai,Web
+1789,2026-04-08,C603,Sofa Set,Furniture,1,31580,17970,0.25,Coimbatore,Mobile App
+1790,2025-11-22,C105,Laptop,Electronics,1,51240,36760,0.15,Bengaluru,Mobile App
+1791,2025-12-20,C191,Headphones,Electronics,1,2470,1800,0.3,Trichy,Mobile App
+1792,2026-07-14,C255,Office Chair,Furniture,3,7450,4290,0.05,Coimbatore,Mobile App
+1792,2026-07-14,C255,Laptop,Electronics,1,50050,37300,0.3,Coimbatore,Mobile App
+1793,2026-08-08,C596,Laptop,Electronics,1,48590,36100,0.0,Salem,Web
+1793,2026-08-08,C596,Bluetooth Speaker,Electronics,1,3570,2630,0.05,Salem,Web
+1793,2026-08-08,C596,Jacket,Apparel,4,2720,1170,0.3,Salem,Web
+1794,2025-11-05,C068,Smartwatch,Electronics,1,8120,6010,0.2,Salem,Web
+1795,2025-12-01,C171,Dinner Set,Home & Kitchen,3,1960,1270,0.15,Bengaluru,Mobile App
+1795,2025-12-01,C171,Saree,Apparel,2,3390,1420,0.0,Bengaluru,Mobile App
+1796,2026-06-01,C090,Pressure Cooker,Home & Kitchen,1,1590,1010,0.1,Hyderabad,Mobile App
+1796,2026-06-01,C090,Jacket,Apparel,2,2820,1190,0.2,Hyderabad,Mobile App
+1797,2025-12-10,C156,Water Purifier,Home & Kitchen,1,12240,8140,0.0,Bengaluru,Web
+1797,2025-12-10,C156,Phone,Electronics,1,19540,13990,0.2,Bengaluru,Web
+1798,2025-12-28,C297,Formal Shirt,Apparel,2,1350,630,0.0,Trichy,Web
+1799,2026-04-29,C453,Smart TV,Electronics,1,35520,24720,0.25,Coimbatore,Mobile App
+1800,2025-09-06,C639,Headphones,Electronics,4,2490,1790,0.1,Salem,Web
+1801,2026-05-31,C562,Mixer Grinder,Home & Kitchen,1,4230,2780,0.05,Bengaluru,Web
+1801,2026-05-31,C562,Mixer Grinder,Home & Kitchen,1,4230,2780,0.05,Bengaluru,Web
+1802,2026-01-24,C185,Headphones,Electronics,2,2560,1920,0.1,Bengaluru,Web
+1803,2026-04-26,C266,Laptop Sleeve,Accessories,4,910,420,0.15,Madurai,Web
+1804,2026-01-13,C249,Phone,Electronics,1,19980,14230,0.2,Kochi,Web
+1805,2025-11-09,C319,Formal Shirt,Apparel,2,1400,590,0.0,Coimbatore,Web
+1806,2025-11-26,C182,Headphones,Electronics,1,2410,1770,0.05,Chennai,Mobile App
+1807,2025-10-05,C568,Sofa Set,Furniture,1,31420,18480,0.05,Coimbatore,Mobile App
+1808,2026-06-23,C021,Phone Case,Accessories,2,400,200,0.3,Bengaluru,Mobile App
+1808,2026-06-23,C021,Office Chair,Furniture,1,7480,4000,0.0,Bengaluru,Mobile App
+1809,2025-10-02,C015,Sofa Set,Furniture,1,30780,18070,0.15,Coimbatore,Mobile App
+1809,2025-10-02,C015,T-Shirt,Apparel,1,720,310,0.05,Coimbatore,Mobile App
+1810,2025-11-11,C319,T-Shirt,Apparel,2,690,320,0.15,Coimbatore,Web
+1811,2026-05-28,C060,Cookware Set,Home & Kitchen,1,2750,1740,0.1,Coimbatore,Web
+1811,2026-05-28,C060,Jeans,Apparel,2,1770,800,0.25,Coimbatore,Web
+1811,2026-05-28,C060,Jeans,Apparel,2,1770,800,0.25,Coimbatore,Web
+1812,2025-10-13,C429,Phone Case,Accessories,1,390,180,0.1,Bengaluru,Web
+1813,2025-09-27,C624,Laptop Sleeve,Accessories,2,860,400,0.1,Chennai,Web
+1813,2025-09-27,C624,Formal Shirt,Apparel,2,1410,630,0.1,Chennai,Web
+1814,2026-01-17,C285,Dinner Set,Home & Kitchen,1,1930,1210,0.25,Hyderabad,Mobile App
+1815,2026-08-17,C591,Headphones,Electronics,1,2440,1830,0.1,Madurai,Mobile App
+1816,2025-11-24,C400,Microwave,Home & Kitchen,1,9250,5840,0.3,Chennai,Mobile App
+1817,2025-09-10,C361,Bed Frame,Furniture,1,17620,10310,0.1,Hyderabad,Mobile App
+1818,2026-07-03,C011,Phone Case,Accessories,1,400,180,0.2,Chennai,Web
+1819,2026-05-18,C095,Jacket,Apparel,1,2780,1240,0.1,Hyderabad,Web
+1820,2025-10-07,C440,Bed Frame,Furniture,1,17950,10400,0.3,Hyderabad,Mobile App
+1820,2025-10-07,C440,Saree,Apparel,1,3450,1530,0.25,Hyderabad,Mobile App
+1820,2025-10-07,C440,Phone,Electronics,1,19660,14190,0.2,Hyderabad,Mobile App
+1821,2025-10-22,C635,Mixer Grinder,Home & Kitchen,2,4360,2770,0.2,Salem,Mobile App
+1822,2025-10-15,C188,Bookshelf,Furniture,1,4490,2400,0.2,Bengaluru,Mobile App
+1822,15-10-2025,C188,T-Shirt,Apparel,4,710,310,0.25,Bengaluru,Mobile App
+1822,2025-10-15,C188,Water Purifier,Home & Kitchen,1,12220,8150,0.1,Bengaluru,Mobile App
+1823,2025-10-19,C357,Phone,Electronics,1,20700,15430,0.15,Madurai,Web
+1823,2025-10-19,C357,Backpack,Accessories,1,1460,700,0.15,Madurai,Web
+1824,2026-08-26,C546,Cookware Set,Home & Kitchen,3,2880,1930,0.0,Salem,Mobile App
+1824,2026-08-26,C546,Office Chair,Furniture,1,7270,4120,0.25,Salem,Mobile App
+1824,2026-08-26,C546,Phone,Electronics,1,19940,14910,0.0,Salem,Mobile App
+1825,2025-12-26,C054,Phone,Electronics,1,20440,14900,0.0,Kochi,Web
+1825,2025-12-26,C054,Bed Frame,Furniture,1,18330,10040,0.2,Kochi,Web
+1826,2026-05-31,C319,Office Chair,Furniture,1,7590,4220,0.0,Coimbatore,Web
+1826,2026-05-31,C319,Smartwatch,Electronics,1,8210,6040,0.05,Coimbatore,Web
+1827,2025-12-24,C244,Jeans,Apparel,2,1760,730,0.0,Chennai,Web
+1827,2025-12-24,C244,Backpack,Accessories,1,1500,700,0.05,Chennai,Web
+1828,2026-01-07,C568,Tablet,Electronics,1,17810,12680,0.3,Coimbatore,Mobile App
+1828,2026-01-07,C568,Bookshelf,Furniture,1,4530,2610,0.0,Coimbatore,Mobile App
+1829,2025-10-19,C073,Sofa Set,Furniture,1,31470,18080,0.0,Madurai,Mobile App
+1830,2025-11-19,C131,Laptop,Electronics,1,48850,34590,0.15,Salem,Web
+1831,2026-05-13,C237,Kurta,Apparel,4,1180,510,0.1,Salem,Mobile App
+1831,2026-05-13,C237,Phone,Electronics,1,20040,14040,0.0,Salem,Mobile App
+1831,2026-05-13,C237,Power Bank,Electronics,1,1510,1060,0.05,Salem,Mobile App
+1832,2026-08-09,C438,Tablet,Electronics,2,17680,13020,0.2,Coimbatore,Web
+1833,2025-12-06,C315,Backpack,Accessories,3,1540,770,0.1,Coimbatore,Mobile App
+1833,2025-12-06,C315,Tablet,Electronics,1,17570,12820,0.0,Coimbatore,Mobile App
+1834,2025-11-28,C251,Office Chair,Furniture,3,7640,4450,0.0,Coimbatore,Web
+1835,2026-03-14,C285,Jacket,Apparel,1,2840,1280,0.15,Hyderabad,Web
+1836,2026-01-14,C406,Study Table,Furniture,3,5800,3140,0.0,Bengaluru,Web
+1837,2026-07-24,C386,Tablet,Electronics,1,18120,13130,0.15,Madurai,Mobile App
+1838,2026-06-05,C088,Phone,Electronics,1,19390,13480,0.15,Chennai,Web
+1839,2025-11-01,C607,Bookshelf,Furniture,3,4630,2480,0.2,,Mobile App
+1840,2025-10-27,C249,Wardrobe,Furniture,1,21120,12150,0.15,KOCHI,Mobile App
+1841,2025-10-23,C632,Wallet,Accessories,1,790,400,0.05,Bengaluru,Mobile App
+1842,2026-03-11,C440,Phone Case,Accessories,1,410,200,0.3,Hyderabad,Web
+1843,2026-01-22,C076,Sofa Set,Furniture,1,31500,18440,0.1,Madurai,Web
+1844,2026-03-01,C446,Saree,Apparel,1,3420,1510,0.15,Salem,Web
+1844,2026-03-01,C446,Smart TV,Electronics,1,34440,25020,0.05,Salem,Web
+1845,2025-10-19,C194,Kurta,Apparel,5,1210,510,0.3,Salem,Mobile App
+1845,2025-10-19,C194,Mixer Grinder,Home & Kitchen,1,4300,2820,0.3,Salem,Mobile App
+1846,2026-01-23,C210,Phone,Electronics,1,19730,14030,0.15,Salem,Mobile App
+1847,2025-12-28,C333,Saree,Apparel,1,3470,1620,0.2,Bengaluru,Web
+1848,2026-08-20,C027,Dinner Set,Home & Kitchen,1,1860,1210,0.05,Bengaluru,Mobile App
+1849,2025-11-26,C590,Study Table,Furniture,2,5860,3180,0.25,Hyderabad,Mobile App
+1850,08-10-2025,C612,Bed Frame,Furniture,2,18320,10230,0.0,,Web
+1851,2026-04-20,C036,Mixer Grinder,Home & Kitchen,3,4120,2600,0.0,Salem,Mobile App
+1851,2026-04-20,C036,Bed Frame,Furniture,1,17680,10010,0.0,Salem,Mobile App
+1852,2025-10-14,C638,Jeans,Apparel,1,1790,750,0.1,Chennai,Mobile App
+1853,2025-10-28,C200,Bookshelf,Furniture,2,4590,2500,0.05,Chennai,Web
+1854,2025-09-10,C430,Jeans,Apparel,3,1830,780,0.25,Madurai,Mobile App
+1855,2026-01-08,C428,Wardrobe,Furniture,1,21930,12060,0.15,Trichy,Mobile App
+1856,2025-11-10,C141,Phone,Electronics,1,19860,14180,0.0,Kochi,Mobile App
+1857,2026-02-24,C440,Laptop,Electronics,1,49750,34420,0.25,Hyderabad,Mobile App
+1858,2026-06-08,C262,Mixer Grinder,Home & Kitchen,4,4280,2760,0.2,Coimbatore,Mobile App
+1858,2026-06-08,C262,Mixer Grinder,Home & Kitchen,4,4280,2760,0.2,Coimbatore,Mobile App
+1859,2026-02-26,C533,Smart TV,Electronics,2,36180,26290,0.25,Chennai  ,Mobile App
+1859,2026-02-26,C533,Saree,Apparel,1,3480,1480,0.25,Chennai,Mobile App
+1860,2026-05-20,C327,Mixer Grinder,Home & Kitchen,2,4150,2660,0.2,Madurai,Mobile App
+1860,2026-05-20,C327,Mixer Grinder,Home & Kitchen,2,4150,2660,0.2,Madurai,Mobile App
+1861,2025-12-31,C606,Laptop,Electronics,1,51310,35460,0.1,Salem,Web
+1862,2025-11-11,C154,Bluetooth Speaker,Electronics,2,3490,2550,0.2,Coimbatore,Web
+1863,2025-12-05,C475,Water Purifier,Home & Kitchen,1,12330,8100,0.3,Hyderabad,Mobile App
+1863,2025-12-05,C475,Phone,Electronics,1,20440,14360,0.0,Hyderabad,Mobile App
+1864,2025-11-27,C506,Tablet,Electronics,1,17720,12680,0.3,,Web
+1865,2025-11-01,C005,Backpack,Accessories,2,1490,750,0.15,Chennai,Web
+1866,2026-05-22,C090,Sofa Set,Furniture,1,31740,17210,0.15,Hyderabad,Mobile App
+1867,2025-10-05,C107,Pressure Cooker,Home & Kitchen,1,1550,1020,0.15,Bengaluru,Web
+1867,2025-10-05,C107,Water Purifier,Home & Kitchen,1,12240,7700,0.3,Bengaluru,Web
+1868,2026-06-12,C463,Phone,Electronics,1,19930,13760,0.1,Bengaluru,Web
+1869,2026-07-06,C485,Smart TV,Electronics,1,35400,25250,0.3,Chennai,Web
+1869,2026-07-06,C485,Smartwatch,Electronics,1,8090,5740,0.05,Chennai,Web
+1869,2026-07-06,C485,Kurta,Apparel,1,1190,550,0.3,Chennai,Web
+1870,2026-03-13,C007,Dinner Set,Home & Kitchen,3,1940,1190,0.25,Coimbatore,Web
+1871,2026-04-20,C208,Phone,Electronics,2,19480,14540,0.2,Coimbatore,Web
+1872,2026-06-16,C475,Backpack,Accessories,3,1470,690,0.05,,Web
+1872,2026-06-16,C475,Phone,Electronics,1,19460,14010,0.2,,Web
+1873,2026-07-18,C174,Phone,Electronics,1,19220,14300,0.3,,Web
+1873,2026-07-18,C174,Backpack,Accessories,3,1450,690,0.1,,Web
+1874,2025-10-09,C317,T-Shirt,Apparel,3,700,290,0.2,Chennai,Mobile App
+1874,2025-10-09,C317,Headphones,Electronics,1,2520,1850,0.25,Chennai,Mobile App
+1874,2025-10-09,C317,Bluetooth Speaker,Electronics,1,3490,2600,0.25,Chennai,Mobile App
+1875,2026-07-04,C042,Phone,Electronics,1,20710,14570,0.0,Salem,Web
+1876,2025-12-21,C599,Tablet,Electronics,1,17550,12800,0.3,Madurai,Mobile App
+1877,2026-04-23,C626,T-Shirt,Apparel,2,710,300,0.15,Chennai,Mobile App
+1878,2026-03-19,C295,Backpack,Accessories,1,1490,670,0.0,Trichy,Mobile App
+1879,2025-10-16,C240,Microwave,Home & Kitchen,1,9740,6280,0.05,Chennai,Web
+1879,2025-10-16,C240,Phone,Electronics,1,19720,14280,0.15,Chennai,Web
+1880,2026-04-05,C623,Smartwatch,Electronics,1,8170,6090,0.3,Coimbatore,Mobile App
+1881,2025-11-10,C385,Study Table,Furniture,1,6080,3470,0.15,Chennai,Mobile App
+1882,2025-09-26,C082,Belt,Accessories,2,580,270,0.0,Chennai,Web
+1883,2026-03-07,C128,Bluetooth Speaker,Electronics,1,3480,2610,0.25,Chennai,Web
+1883,2026-03-07,C128,Office Chair,Furniture,3,7440,4360,0.0,Chennai,Web
+1884,2026-06-29,C276,Pressure Cooker,Home & Kitchen,1,1580,1020,0.25,Salem,Web
+1885,2026-02-22,C297,Tablet,Electronics,1,18640,13460,0.0,Trichy,Mobile App
+1886,2025-10-20,C487,Kurta,Apparel,5,1220,510,0.2,Madurai,Mobile App
+1887,2026-07-06,C370,Study Table,Furniture,2,5910,3460,0.25,Chennai,Web
+1887,2026-07-06,C370,Wardrobe,Furniture,1,21360,12520,0.0,Chennai,Web
+1887,2026-07-06,C370,Wallet,Accessories,5,790,400,0.25, Chennai,Web
+1888,25-09-2025,C597,Formal Shirt,Apparel,5,1430,660,0.05,Coimbatore,Web
+1889,2026-06-07,C421,Phone,Electronics,2,20530,14250,0.05,Bengaluru,Mobile App
+1890,2026-07-19,C320,Laptop,Electronics,1,48470,34350,0.2,Madurai,Web
+1890,2026-07-19,C320,Wallet,Accessories,3,780,370,0.2,Madurai,Web
+1891,2026-01-23,C365,Phone,Electronics,1,20390,14620,0.3,Madurai,Mobile App
+1892,2026-07-27,C252,Phone Case,Accessories,1,400,200,0.1,Bengaluru,Web
+1893,2026-03-21,C569,Jeans,Apparel,1,1840,780,0.3, Chennai,Mobile App
+1893,2026-03-21,C569,Water Purifier,Home & Kitchen,2,12100,7640,0.15,Chennai,Mobile App
+1894,2026-06-27,C017,Mixer Grinder,Home & Kitchen,2,4320,2710,0.05,Salem,Mobile App
+1895,2025-11-09,C432,Kurta,Apparel,1,1250,520,0.25,Chennai,Mobile App
+1896,07-11-2025,C301,Mixer Grinder,Home & Kitchen,2,4070,2670,0.2,Bengaluru,Mobile App
+1897,2026-06-28,C115,Sunglasses,Accessories,3,1290,630,0.2,Coimbatore,Web
+1898,2026-08-12,C282,Saree,Apparel,3,3460,1560,0.1,Chennai,Mobile App
+1899,2025-12-18,C570,Jeans,Apparel,2,1850,820,0.3,Madurai,Mobile App
+1900,2026-06-18,C444,Smart TV,Electronics,1,36180,26700,0.25,Madurai,Mobile App
+1900,2026-06-18,C444,Mixer Grinder,Home & Kitchen,1,4040,2600,0.3,Madurai,Mobile App
+1901,2025-11-09,C601,Belt,Accessories,1,590,280,0.15,Kochi,Mobile App
+1902,2026-08-26,C283,Headphones,Electronics,3,2560,1900,0.1,Bengaluru,Web
+1902,2026-08-26,C283,Tablet,Electronics,1,18390,13290,0.1,Bengaluru,Web
+1903,2026-04-04,C552,Tablet,Electronics,1,18470,12860,0.2,Kochi,Mobile App
+1903,2026-04-04,C552,Bluetooth Speaker,Electronics,1,3500,2450,0.05,Kochi,Mobile App
+1904,2026-05-08,C053,Backpack,Accessories,1,1530,780,0.0,Madurai,Web
+1904,2026-05-08,C053,Bookshelf,Furniture,2,4650,2660,0.15,Madurai,Web
+1904,2026-05-08,C053,Backpack,Accessories,1,1530,780,0.0,Madurai,Web
+1905,2026-03-01,C048,Phone,Electronics,1,19340,14040,0.1,Bengaluru,Web
+1905,2026-03-01,C048,Smartwatch,Electronics,1,8140,5880,0.3,Bengaluru,Web
+1906,2025-10-07,C268,Sofa Set,Furniture,1,30820,17350,0.05,Coimbatore,Mobile App
+1906,2025-10-07,C268,T-Shirt,Apparel,1,690,310,0.3,Coimbatore,Mobile App
+1907,2026-02-05,C498,Smartwatch,Electronics,1,7820,5700,0.0,Madurai,Mobile App
+1907,2026-02-05,C498,Smartwatch,Electronics,1,7820,5700,0.0,Madurai,Mobile App
+1907,2026-02-05,C498,Laptop,Electronics,1,50450,37350,0.15,Madurai,Mobile App
+1908,2026-03-14,C361,Dinner Set,Home & Kitchen,1,1970,1300,0.05,Hyderabad,Web
+1908,2026-03-14,C361,Bookshelf,Furniture,4,4550,2650,0.15,Hyderabad,Web
+1909,2026-07-23,C513,Headphones,Electronics,3,2590,1810,0.3,Chennai,Mobile App
+1910,2025-11-08,C527,Phone Case,Accessories,2,410,200,0.1,Madurai,Mobile App
+1911,2026-06-15,C007,Pressure Cooker,Home & Kitchen,4,1620,1040,0.1,Coimbatore,Mobile App
+1911,2026-06-15,C007,Bookshelf,Furniture,2,4340,2460,0.05,Coimbatore,Mobile App
+1912,2026-08-12,C557,Study Table,Furniture,3,5790,3190,0.0,trichy ,Web
+1913,2026-04-29,C493,Dinner Set,Home & Kitchen,1,1970,1320,0.1,Bengaluru,Web
+1913,2026-04-29,C493,Bookshelf,Furniture,2,4660,2670,0.05,Bengaluru,Web
+1914,2026-03-01,C440,Bookshelf,Furniture,1,4640,2720,0.1,Hyderabad,Mobile App
+1915,2026-04-28,C524,Water Purifier,Home & Kitchen,1,12200,7700,0.3,Madurai,Web
+1916,2026-04-03,C328,Phone,Electronics,1,20240,14570,0.0,Bengaluru,Mobile App
+1916,2026-12-11,C328,Pressure Cooker,Home & Kitchen,2,1570,1010,0.0,Bengaluru,Mobile App
+1917,2026-08-09,C430,Phone,Electronics,2,19840,13960,0.2,Madurai,Mobile App
+1917,2026-08-09,C430,Smart TV,Electronics,1,34590,25330,0.15,Madurai,Mobile App
+1917,2026-08-09,C430,Headphones,Electronics,1,2480,1810,0.1,Madurai,Mobile App
+1918,2025-11-30,C619,Laptop,Electronics,1,50420,37760,0.15,Madurai,Mobile App
+1919,2025-10-21,C266,Laptop,Electronics,1,49540,34260,0.2,Madurai,Mobile App
+1920,2026-07-06,C267,Microwave,Home & Kitchen,1,9260,5770,0.25,Hyderabad,Mobile App
+1921,2026-07-27,C176,T-Shirt,Apparel,1,710,330,0.0,Madurai,Mobile App
+1922,2026-06-20,C177,Study Table,Furniture,2,6220,3650,0.05,Salem,Web
+1923,2025-11-19,C026,Office Chair,Furniture,1,7740,4330,0.3,Madurai,Web
+1924,2026-07-31,C297,Power Bank,Electronics,5,1480,1100,0.25,Trichy,Mobile App
+1924,2026-07-31,C297,Study Table,Furniture,1,5950,3310,0.1,Trichy,Mobile App
+1924,2026-07-31,C297,Headphones,Electronics,3,2470,1740,0.05,Trichy,Mobile App
+1925,2026-07-26,C340,Bookshelf,Furniture,2,4510,2500,0.0,Madurai,Mobile App
+1925,2026-07-26,C340,Smart TV,Electronics,1,35060,25590,0.15,Madurai,Mobile App
+1926,2025-11-25,C161,Wallet,Accessories,1,800,380,0.0,Bengaluru,Web
+1927,2025-10-07,C393,Bluetooth Speaker,Electronics,2,3640,2680,0.25,coimbatore,Mobile App
+1928,2026-02-24,C402,Jacket,Apparel,1,2810,1160,0.05,Madurai,Web
+1928,2026-02-24,C402,Bluetooth Speaker,Electronics,2,3520,2620,0.2,Madurai,Web
+1928,2026-02-24,C402,Belt,Accessories,4,580,290,0.15,Madurai,Web
+1929,2026-02-22,C212,Dinner Set,Home & Kitchen,4,1960,1210,0.25,Hyderabad,Web
+1930,2026-05-10,C111,Tablet,Electronics,2,18200,12580,0.05,Chennai,Web
+1931,2026-05-02,C288,Tablet,Electronics,2,18450,13650,0.3,Bengaluru,Mobile App
+1932,2026-06-23,C380,Sofa Set,Furniture,1,32180,18720,0.0,Hyderabad,Web
+1932,2026-06-23,C380,Laptop,Electronics,1,48570,34230,0.3,Hyderabad,Web
+1933,2026-07-14,C404,Cookware Set,Home & Kitchen,1,2780,1760,0.25,Chennai,Mobile App
+1934,2026-06-19,C316,Microwave,Home & Kitchen,1,9420,6140,0.15,Chennai,Mobile App
+1935,2025-11-02,C336,Backpack,Accessories,1,1500,690,0.3,Coimbatore  ,Mobile App
+1936,2025-11-10,C484,Phone,Electronics,2,20520,15250,0.2,Kochi,Mobile App
+1936,2025-11-10,C484,Bed Frame,Furniture,1,17460,10300,0.0, Kochi,Mobile App
+1936,2025-11-10,C484,Power Bank,Electronics,2,1500,1060,0.05,Kochi,Mobile App
+1937,2026-11-22,C274,Saree,Apparel,2,3590,1520,0.15,Coimbatore,Mobile App
+1938,2025-10-16,C517,Laptop Sleeve,Accessories,1,920,420,0.1,Trichy,Mobile App
+1939,2026-03-14,C029,Wallet,Accessories,1,830,390,0.15,Salem,Mobile App
+1940,2025-12-17,C457,Smart TV,Electronics,1,34120,23940,0.1,,Web
+1941,2026-07-11,C388,Office Chair,Furniture,3,7530,4060,0.0,Salem,Web
+1942,2026-04-30,C371,Microwave,Home & Kitchen,1,9250,6160,0.0,Coimbatore,Web
+1943,2025-10-07,C602,Study Table,Furniture,1,6150,3540,0.0,Salem ,Web
+1944,2026-04-08,C286,Mixer Grinder,Home & Kitchen,2,4340,2890,0.05,Hyderabad,Mobile App
+1945,2026-04-03,C027,Sunglasses,Accessories,2,1260,610,0.0,Bengaluru,Web
+1945,2026-04-03,C027,Cookware Set,Home & Kitchen,4,2830,1780,0.1,Bengaluru,Web
+1946,2026-04-11,C485,Power Bank,Electronics,4,1540,1100,0.1,chennai ,Web
+1946,2026-04-11,C485,Phone Case,Accessories,1,410,190,0.2,Chennai,Web
+1946,2026-04-11,C485,Phone,Electronics,1,19940,14610,0.05,Chennai,Web
+1947,2025-12-26,C278,Headphones,Electronics,1,2470,1750,0.2,Kochi,Mobile App
+1947,2025-12-26,C278,Headphones,Electronics,1,2470,1750,0.2,Kochi,Mobile App
+1948,2025-10-29,C385,Phone,Electronics,1,20600,15030,0.3,Chennai,Web
+1949,2026-03-06,C564,Mixer Grinder,Home & Kitchen,1,4100,2540,0.15,Kochi,Mobile App
+1950,2025-11-21,C307,Headphones,Electronics,1,2500,1750,0.25,Salem,Mobile App
+1950,2025-11-21,C307,Microwave,Home & Kitchen,1,9160,5710,0.05,Salem,Mobile App
+1951,2025-12-15,C219,Jacket,Apparel,1,2810,1180,0.2,Hyderabad,Mobile App
+1952,2025-10-27,C601,T-Shirt,Apparel,1,680,320,0.3,Kochi,Web
+1953,2026-04-02,C103,Laptop,Electronics,1,51410,36440,0.05,Kochi,Mobile App
+1953,2026-04-02,C103,Cookware Set,Home & Kitchen,1,2860,1760,0.25,Kochi,Mobile App
+1954,2025-10-18,C153,Headphones,Electronics,3,2580,1870,0.2,Salem,Web
+1954,2025-10-18,C153,Dinner Set,Home & Kitchen,2,1870,1150,0.3,Salem,Web
+1955,2025-10-18,C478,Microwave,Home & Kitchen,1,9240,5940,0.3,Bengaluru,Web
+1956,2026-05-02,C258,Formal Shirt,Apparel,1,1450,650,0.25,Hyderabad,Mobile App
+1956,2026-05-02,C258,Mixer Grinder,Home & Kitchen,2,4080,2600,0.0,Hyderabad,Mobile App
+1956,2026-05-02,C258,Headphones,Electronics,1,2480,1740,0.2,Hyderabad,Mobile App
+1957,2026-08-18,C111,T-Shirt,Apparel,1,730,340,0.0,Chennai,Mobile App
+1958,2025-11-21,C377,Phone Case,Accessories,5,410,200,0.1,Coimbatore,Web
+1959,2026-05-09,C208,Water Purifier,Home & Kitchen,2,12290,7510,0.1,Coimbatore,Mobile App
+1959,2026-05-09,C208,Water Purifier,Home & Kitchen,2,12290,7510,0.1,Coimbatore,Mobile App
+1960,2025-10-21,C505,Smartwatch,Electronics,1,8010,5970,0.3,Madurai,Mobile App
+1961,2025-09-22,C083,Sofa Set,Furniture,1,31830,16950,0.15,Madurai,Web
+1962,2026-01-15,C073,Phone,Electronics,1,20770,15110,0.0,Madurai,Web
+1963,2025-12-14,C131,Laptop,Electronics,1,50690,37100,0.25,Salem,Mobile App
+1964,2026-07-04,C506,Headphones,Electronics,2,2590,1900,0.15,Trichy,Mobile App
+1965,2025-11-13,C247,Formal Shirt,Apparel,1,1430,600,0.15,Chennai,Mobile App
+1965,2025-11-13,C247,Smart TV,Electronics,1,35470,25150,0.05,Chennai,Mobile App
+1966,2025-10-18,C456,Microwave,Home & Kitchen,2,9240,5980,0.15,Chennai,Mobile App
+1966,2025-10-18,C456,T-Shirt,Apparel,4,670,280,0.3,Chennai,Mobile App
+1967,2026-07-12,C529,Phone,Electronics,1,20330,14270,0.0,Chennai,Mobile App
+1968,2025-10-04,C097,Jeans,Apparel,1,1760,730,0.1,Salem,Mobile App
+1969,2026-02-25,C255,Phone Case,Accessories,1,400,180,0.15,coimbatore,Mobile App
+1970,2026-07-09,C238,Laptop,Electronics,1,48700,34180,0.15,Trichy,Web
+1971,2026-08-19,C174,Smart TV,Electronics,2,34120,24200,0.05,Chennai,Mobile App
+1971,2026-08-19,C174,Mixer Grinder,Home & Kitchen,2,4230,2730,0.05,Chennai,Mobile App
+1972,2025-12-29,C436,Office Chair,Furniture,1,7590,4460,0.15,Chennai,Mobile App
+1972,2025-12-29,C436,Smart TV,Electronics,1,33780,24010,0.2,Chennai,Mobile App
+1973,2026-06-20,C637,Sunglasses,Accessories,3,1290,630,0.0,Salem,Web
+1973,2026-06-20,C637,Pressure Cooker,Home & Kitchen,1,1540,1010,0.15,Salem,Web
+1974,2025-11-12,C344,Jacket,Apparel,2,2800,1230,0.1,Trichy,Mobile App
+1975,2026-08-29,C041,Laptop,Electronics,1,49410,35470,0.3,Bengaluru,Web
+1976,2026-07-01,C101,Backpack,Accessories,3,1490,680,0.05,Bengaluru,Mobile App
+1977,2025-09-11,C159,Phone Case,Accessories,1,400,190,0.2,Chennai,Web
+1978,2026-04-21,C092,Phone,Electronics,1,19350,13810,0.1,Trichy,Web
+1979,2025-09-09,C152,Wallet,Accessories,2,800,370,0.15,Bengaluru,Web
+1980,2025-12-31,C377,Belt,Accessories,1,580,290,0.05,Coimbatore,Mobile App
+1981,2026-01-26,C513,Wallet,Accessories,1,820,390,0.05,Chennai,Web
+1982,2025-10-19,C066,Formal Shirt,Apparel,5,1440,620,0.0,Salem,Mobile App
+1982,2025-10-19,C066,Sofa Set,Furniture,1,31030,16690,0.2,Salem,Mobile App
+1983,2026-01-08,C624,Bluetooth Speaker,Electronics,1,3430,2550,0.3,,Web
+1984,2026-08-19,C438,Bookshelf,Furniture,1,4440,2400,0.05,Coimbatore,Mobile App
+1985,2026-04-10,C386,Water Purifier,Home & Kitchen,1,11750,7750,0.1,Madurai,Mobile App
+1986,2025-09-08,C612,Jacket,Apparel,2,2830,1170,0.15,hyderabad ,Mobile App
+1987,19-07-2026,C557,Sofa Set,Furniture,1,32710,18890,0.0,Trichy,Mobile App
+1988,2026-07-02,C322,Mixer Grinder,Home & Kitchen,2,4140,2730,0.0,Bengaluru,Web
+1989,2025-11-14,C410,Water Purifier,Home & Kitchen,1,12030,7930,0.3,Hyderabad ,Web
+1989,2025-11-14,C410,Phone,Electronics,1,20370,14950,0.25,Hyderabad,Web
+1990,2025-11-16,C454,Formal Shirt,Apparel,1,1350,570,0.0,Chennai,Mobile App
+1991,2026-04-17,C283,Wardrobe,Furniture,1,22720,12240,0.1,Bengaluru,Mobile App
+1992,2026-03-25,C081,Smartwatch,Electronics,1,7860,5760,0.05,Chennai,Mobile App
+1993,2025-10-12,C411,T-Shirt,Apparel,1,700,300,0.25,Coimbatore,Mobile App
+1994,2026-03-07,C021,Power Bank,Electronics,1,1480,1100,0.1,Bengaluru,Mobile App
+1995,2026-03-13,C238,Laptop,Electronics,1,50870,35500,0.0,Trichy,Mobile App
+1995,2026-03-13,C238,Phone,Electronics,1,20040,14960,0.25,Trichy,Mobile App
+1995,2026-03-13,C238,Phone,Electronics,1,20040,14960,0.25,Trichy,Mobile App
+1996,2026-08-19,C197,Jacket,Apparel,2,2800,1240,0.15,Chennai,Web
+1997,2025-12-19,C016,Tablet,Electronics,1,18210,13170,0.25,Bengaluru,Web
+1997,2025-12-19,C016,Formal Shirt,Apparel,4,1390,580,0.05,Bengaluru,Web
+1998,2025-11-03,C377,Tablet,Electronics,1,17500,12990,0.15,Coimbatore,Web
+1999,2026-05-26,C582,Saree,Apparel,2,3500,1580,0.15,Trichy,Mobile App
+2000,2025-09-17,C178,Bookshelf,Furniture,2,4320,2470,0.05,Salem,Mobile App
+2001,2026-07-22,C059,Study Table,Furniture,1,6200,3560,0.1,Chennai,Web
+2002,2026-02-14,C057,Water Purifier,Home & Kitchen,1,11840,7450,0.0,Madurai,Web
+2003,2025-11-17,C614,Mixer Grinder,Home & Kitchen,1,4200,2660,0.0,coimbatore,Web
+2004,2026-06-14,C601,Phone,Electronics,1,20110,14780,0.2,Kochi,Mobile App
+2004,2026-06-14,C601,T-Shirt,Apparel,1,720,310,0.15,Kochi,Mobile App
+2005,2026-03-14,C598,Office Chair,Furniture,1,7390,4010,0.05,Bengaluru,Mobile App
+2006,2026-02-08,C587,Wardrobe,Furniture,2,21810,12550,0.05,Bengaluru,Mobile App
+2006,2026-02-08,C587,Water Purifier,Home & Kitchen,3,12280,7980,0.0,Bengaluru,Mobile App
+2007,2025-10-08,C533,Laptop,Electronics,1,48040,33940,0.15,Chennai,Web
+2008,2026-05-16,C197,Headphones,Electronics,2,2530,1890,0.1,Chennai,Mobile App
+2009,2025-11-16,C608,Laptop,Electronics,1,48480,33860,0.3,Salem,Mobile App
+2010,2026-08-23,C098,Mixer Grinder,Home & Kitchen,3,4350,2860,0.3,Coimbatore,Mobile App
+2011,2025-10-23,C507,Study Table,Furniture,1,5790,3310,0.1,Madurai,Web
+2011,2025-10-23,C507,Wardrobe,Furniture,1,22680,12970,0.0,Madurai,Web
+2012,2025-12-13,C472,Wardrobe,Furniture,1,21430,11370,0.1,Madurai,Web
+2013,2026-08-15,C563,Phone,Electronics,2,20300,14990,0.0,Madurai,Mobile App
+2013,2026-08-15,C563,Pressure Cooker,Home & Kitchen,2,1560,980,0.3,Madurai,Mobile App
+2014,2026-03-12,C341,Dinner Set,Home & Kitchen,2,1940,1270,0.05,Chennai,Mobile App
+2015,2025-10-04,C465,Bluetooth Speaker,Electronics,2,3540,2530,0.15,Hyderabad,Web
+2015,2025-10-04,C465,Study Table,Furniture,2,5940,3470,0.15,Hyderabad,Web
+2016,2026-08-23,C354,Cookware Set,Home & Kitchen,1,2890,1880,0.3,Chennai,Mobile App
+2017,2025-10-04,C628,Sunglasses,Accessories,2,1320,630,0.2,Chennai,Web
+2018,2026-07-19,C262,Kurta,Apparel,4,1210,570,0.25,Coimbatore,Web
+2018,2026-07-19,C262,Phone Case,Accessories,3,390,180,0.15,Coimbatore,Web
+2018,2026-07-19,C262,Phone Case,Accessories,3,390,180,0.15,Coimbatore,Web
+2019,2025-12-19,C085,Study Table,Furniture,2,6210,3570,0.15,Chennai,Mobile App
+2019,2025-12-19,C085,Phone Case,Accessories,2,400,190,0.05,Chennai,Mobile App
+2020,2026-02-02,C451,Headphones,Electronics,3,2590,1870,0.05,Hyderabad,Web
+2021,2025-12-23,C311,Mixer Grinder,Home & Kitchen,3,4180,2760,0.0,Chennai,Mobile App
+2022,2025-09-01,C005,Phone,Electronics,2,19430,13490,0.05,Chennai,Mobile App
+2023,2025-12-22,C195,Smart TV,Electronics,1,35880,24810,0.0,Salem,Mobile App
+2024,2025-10-25,C272,Smartwatch,Electronics,1,8290,5930,0.15,Bengaluru,Mobile App
+2025,2026-05-04,C581,Tablet,Electronics,1,17900,12980,0.2,Chennai,Web
+2026,2025-09-18,C557,Bluetooth Speaker,Electronics,3,3370,2470,0.1,Trichy,Mobile App
+2027,2026-03-02,C071,Microwave,Home & Kitchen,1,9390,6280,0.0,Chennai,Web
+2027,2026-03-02,C071,Laptop,Electronics,1,49950,37180,0.15,Chennai,Web
+2028,2025-10-03,C611,Laptop,Electronics,1,49240,36270,0.1,Salem,Mobile App
+2028,2025-10-03,C611,Sunglasses,Accessories,1,1300,640,0.3,Salem,Mobile App
+2029,2025-12-24,C013,T-Shirt,Apparel,2,720,340,0.1,Chennai,Web
+2030,2026-01-18,C298,Sunglasses,Accessories,2,1320,600,0.15,Chennai,Mobile App
+2031,2026-02-03,C209,Phone,Electronics,1,19660,13960,0.05,Chennai,Mobile App
+2032,2026-06-28,C136,Laptop,Electronics,1,51100,37730,0.25,Chennai,Web
+2033,2025-09-19,C481,Cookware Set,Home & Kitchen,1,2880,1800,0.15,Madurai,Web
+2034,2026-07-27,C222,Jacket,Apparel,1,2900,1290,0.1,Chennai,Web
+2035,2026-05-05,C581,Cookware Set,Home & Kitchen,1,2830,1740,0.05,Chennai,Web
+2036,2026-03-09,C572,Smartwatch,Electronics,1,8290,5900,0.3,Hyderabad,Web
+2037,2026-07-25,C257,Phone,Electronics,1,20110,14680,0.3,Chennai,Mobile App
+2037,2026-07-25,C257,Phone,Electronics,1,20110,14680,0.3,Chennai,Mobile App
+2038,2025-12-11,C551,Jeans,Apparel,2,1750,760,0.05,Bengaluru,Web
+2039,2025-10-17,C347,Water Purifier,Home & Kitchen,1,11530,7640,0.3,Chennai,Web
+2039,2025-10-17,C347,Laptop,Electronics,1,48240,35570,0.25,Chennai,Web
+2040,2026-07-07,C004,Wardrobe,Furniture,1,21960,11770,0.1,Chennai,Mobile App
+2041,2026-03-03,C455,Phone,Electronics,1,20020,14850,0.15,Hyderabad,Mobile App
+2042,2026-08-25,C571,Jacket,Apparel,1,2880,1240,0.05,Coimbatore,Mobile App
+2043,2025-09-25,C214,Water Purifier,Home & Kitchen,1,12350,8090,0.15,Hyderabad,Web
+2043,2025-09-25,C214,Jeans,Apparel,4,1730,780,0.1,Hyderabad,Web
+2044,2026-06-08,C225,Jacket,Apparel,1,2720,1210,0.2,Coimbatore,Mobile App
+2044,2026-06-08,C225,Jacket,Apparel,1,2720,1210,0.2,Coimbatore,Mobile App
+2045,2025-12-31,C267,Smart TV,Electronics,1,36100,25220,0.1,Hyderabad,Web
+2046,2025-12-18,C515,Wallet,Accessories,4,800,380,0.15,Coimbatore,Mobile App
+2046,2025-12-18,C515,Sunglasses,Accessories,2,1280,620,0.05,Coimbatore,Mobile App
+2047,2026-05-03,C037,Mixer Grinder,Home & Kitchen,1,4220,2690,0.1,Chennai,Mobile App
+2048,2025-11-30,C274,Smartwatch,Electronics,1,7850,5540,0.2,Coimbatore,Mobile App
+2048,2025-11-30,C274,Smartwatch,Electronics,1,7850,5540,0.2,Coimbatore,Mobile App
+2049,2025-11-23,C604,Bookshelf,Furniture,3,4450,2440,0.15,Trichy,Mobile App
+2049,2025-11-23,C604,Power Bank,Electronics,3,1470,1050,0.25,Trichy,Mobile App
+2050,2026-07-19,C220,Jeans,Apparel,2,1810,760,0.25,Chennai,Web
+2050,2026-07-19,C220,Bluetooth Speaker,Electronics,2,3550,2530,0.1,Chennai,Web
+2051,2026-04-12,C398,Formal Shirt,Apparel,2,1360,610,0.05,Hyderabad,Web
+2051,2026-04-12,C398,Bed Frame,Furniture,1,17670,9970,0.0,Hyderabad,Web
+2052,2026-03-30,C234,Sunglasses,Accessories,2,1300,660,0.05,Salem,Web
+2052,2026-03-30,C234,Bookshelf,Furniture,1,4390,2340,0.3,Salem,Web
+2052,2026-03-30,C234,Formal Shirt,Apparel,1,1450,590,0.3,Salem,Web
+2053,2026-03-26,C377,Phone,Electronics,1,19490,13870,0.0,Coimbatore,Mobile App
+2054,2026-07-02,C629,Smartwatch,Electronics,2,8180,6100,0.05,Coimbatore,Web
+2055,2026-07-19,C054,Headphones,Electronics,1,2520,1780,0.05,Kochi,Mobile App
+2056,2026-04-04,C626,Study Table,Furniture,1,6160,3320,0.05,Chennai,Mobile App
+2057,2025-11-02,C060,Tablet,Electronics,1,18170,13580,0.25,Coimbatore,Mobile App
+2057,2025-11-02,C060,Phone Case,Accessories,1,390,190,0.25,Coimbatore,Mobile App
+2058,2025-11-02,C290,Phone,Electronics,1,19550,13620,0.15,,Mobile App
+2059,2026-03-19,C040,Tablet,Electronics,2,17420,12110,0.15,Madurai,Mobile App
+2060,2026-05-20,C080,Headphones,Electronics,3,2510,1770,0.15,Coimbatore,Web
+2061,2026-06-08,C329,Bed Frame,Furniture,1,18170,10540,0.05,Trichy,Mobile App
+2062,2026-05-07,C352,Headphones,Electronics,1,2560,1800,0.1,Chennai,Mobile App
+2062,2026-05-07,C352,Smartwatch,Electronics,1,7870,5540,0.15,Chennai,Mobile App
+2063,2025-09-11,C117,Dinner Set,Home & Kitchen,1,1890,1240,0.05,Chennai ,Mobile App
+2064,2025-12-14,C376,Backpack,Accessories,1,1450,670,0.05,Madurai,Mobile App
+2064,2025-12-14,C376,Phone Case,Accessories,4,400,180,0.15,Madurai,Mobile App
+2065,2026-03-28,C385,Phone Case,Accessories,1,400,200,0.25,Chennai,Mobile App
+2065,2026-03-28,C385,Smart TV,Electronics,1,35550,24640,0.3,Chennai,Mobile App
+2066,2026-01-12,C156,Tablet,Electronics,1,17410,12070,0.25,Bengaluru,Web
+2066,2026-01-12,C156,Smartwatch,Electronics,1,8270,5820,0.15,Bengaluru,Web
+2067,2026-08-12,C324,Study Table,Furniture,1,6210,3620,0.15,Madurai,Mobile App
+2068,2025-10-27,C144,Smart TV,Electronics,1,35890,25150,0.2,Coimbatore,Mobile App
+2069,2026-05-28,C469,Laptop Sleeve,Accessories,4,880,400,0.2,Bengaluru,Mobile App
+2070,2026-02-15,C625,Laptop,Electronics,1,48540,33630,0.0,Kochi,Web
+2071,2026-07-07,C225,Smartwatch,Electronics,1,7840,5490,0.05,Coimbatore,Mobile App
+2072,2026-04-12,C371,Headphones,Electronics,3,2400,1720,0.2,Coimbatore,Mobile App
+2073,2025-12-18,C437,Office Chair,Furniture,1,7780,4560,0.1,Madurai,Mobile App
+2074,2026-05-12,C457,Office Chair,Furniture,1,7440,4170,0.15,Chennai,Mobile App
+2074,2026-05-12,C457,Tablet,Electronics,1,18140,12920,0.2,Chennai,Mobile App
+2075,2025-12-24,C612,Bluetooth Speaker,Electronics,1,3420,2360,0.2,Hyderabad,Web
+2076,2025-10-17,C518,Jacket,Apparel,1,2830,1210,0.0,Salem,Mobile App
+2076,2025-10-17,C518,Tablet,Electronics,1,17910,12880,0.2,SALEM,Mobile App
+2077,2026-07-16,C460,Laptop,Electronics,2,51790,38520,0.1,Madurai,Mobile App
+2078,2025-09-22,C155,Mixer Grinder,Home & Kitchen,1,4180,2700,0.1,Hyderabad,Mobile App
+2079,2026-01-26,C455,Bed Frame,Furniture,3,17790,9640,0.0,Hyderabad,Mobile App
+2079,2026-01-26,C455,Phone Case,Accessories,1,390,190,0.0,Hyderabad,Mobile App
+2080,2025-11-01,C175,Power Bank,Electronics,2,1540,1110,0.15,Chennai  ,Mobile App
+2081,2025-09-21,C208,Sofa Set,Furniture,1,31970,18410,0.15,Coimbatore,Mobile App
+2082,2026-05-16,C485,Belt,Accessories,-3,620,290,0.05,Chennai,Mobile App
+2083,2026-05-14,C107,Backpack,Accessories,2,1450,690,0.0,Bengaluru,Web
+2084,2025-11-22,C007,Bookshelf,Furniture,1,4470,2590,0.15,Coimbatore,Mobile App
+2085,2025-11-10,C139,Smart TV,Electronics,1,36000,25410,0.0,Bengaluru,Mobile App
+2086,2026-01-21,C209,T-Shirt,Apparel,3,720,310,0.1,Chennai,Mobile App
+2086,2026-01-21,C209,Phone Case,Accessories,1,410,210,0.1,Chennai,Mobile App
+2086,2026-01-21,C209,Bed Frame,Furniture,2,17400,9700,0.1,Chennai,Mobile App
+2087,2026-04-23,C562,Cookware Set,Home & Kitchen,1,2870,1880,0.2,Bengaluru,Mobile App
+2088,2025-12-31,C143,Jeans,Apparel,2,1770,810,0.25,Madurai,Web
+2088,2025-12-31,C143,Bluetooth Speaker,Electronics,1,3630,2720,0.15,Madurai,Web
+2088,2025-12-31,C143,Tablet,Electronics,1,18660,13400,0.0,Madurai,Web
+2089,2026-03-03,C241,Sunglasses,Accessories,4,1250,590,0.05,Bengaluru,Web
+2089,2026-03-03,C241,Power Bank,Electronics,1,1480,1030,0.15,Bengaluru,Web
+2090,2026-06-19,C353,Laptop,Electronics,1,51750,36070,0.25,Chennai,Web
+2091,2026-02-04,C061,Power Bank,Electronics,2,1540,1090,0.05,Trichy,Mobile App
+2092,2025-10-19,C433,Smart TV,Electronics,1,33830,24960,0.2,Chennai,Web
+2093,2026-02-04,C030,Headphones,Electronics,3,2510,1740,0.1,Salem,Web
+2093,2026-02-04,C030,Formal Shirt,Apparel,1,1420,670,0.0,Salem,Web
+2093,2026-02-04,C030,Phone,Electronics,1,20770,14790,0.25,Salem,Web
+2094,2025-09-16,C443,Phone Case,Accessories,3,390,190,0.1,Chennai,Mobile App
+2094,2025-09-16,C443,Microwave,Home & Kitchen,1,9740,6050,0.1,Chennai,Mobile App
+2094,2025-09-16,C443,Formal Shirt,Apparel,3,1380,570,0.05,Chennai,Mobile App
+2095,2026-04-14,C261,Water Purifier,Home & Kitchen,2,12180,7450,0.15,Chennai,Mobile App
+2096,2026-05-03,C025,Office Chair,Furniture,1,7380,4220,0.15,Hyderabad,Mobile App
+2096,2026-05-03,C025,Office Chair,Furniture,1,7380,4220,0.15,Hyderabad,Mobile App
+2097,2025-11-05,C193,Bluetooth Speaker,Electronics,1,3430,2400,0.05,Salem,Mobile App
+2098,2026-03-22,C368,Sofa Set,Furniture,1,311000,16620,0.1,Coimbatore,Web
+2099,2026-03-19,C376,Phone,Electronics,1,20230,15100,0.15,Madurai,Mobile App
+2100,2026-08-06,C106,Laptop,Electronics,1,48630,34110,0.0,,Web
+2101,2026-07-04,C479,Bed Frame,Furniture,1,18230,10100,0.05,Bengaluru,Web
+2102,2025-10-13,C436,Laptop,Electronics,1,51130,38210,0.2,Chennai,Web
+2102,2025-10-13,C436,Sofa Set,Furniture,1,31530,18440,0.2,Chennai,Web
+2102,2025-10-13,C436,Phone Case,Accessories,1,390,200,0.2,Chennai,Web
+2103,2026-08-14,C584,Headphones,Electronics,3,2400,1730,0.15,Bengaluru,Mobile App
+2103,2026-08-14,C584,Power Bank,Electronics,2,1530,1110,0.25,Bengaluru,Mobile App
+2104,2025-10-31,C226,Jacket,Apparel,3,2800,1240,0.3,Madurai,Web
+2104,2025-10-31,C226,Jacket,Apparel,3,2800,1240,0.3,Madurai,Web
+2105,2026-04-02,C543,Wallet,Accessories,3,820,390,0.1,Hyderabad,Mobile App
+2106,2026-03-01,C520,Bluetooth Speaker,Electronics,3,3470,2520,0.15,Salem,Mobile App
+2107,2026-07-14,C206,Water Purifier,Home & Kitchen,1,11740,7380,0.1,Hyderabad,Mobile App
+2107,2026-07-14,C206,Bluetooth Speaker,Electronics,1,3540,2450,0.3,Hyderabad,Mobile App
+2108,2025-11-09,C601,Laptop,Electronics,1,51810,37150,0.15,Kochi,Web
+2109,2026-08-14,C496,Formal Shirt,Apparel,2,1410,610,0.3,Madurai,Mobile App
+2110,2026-06-10,C156,Water Purifier,Home & Kitchen,1,11570,7740,0.15,,Mobile App
+2111,2025-11-17,C460,Phone Case,Accessories,2,400,190,0.05,Madurai,Web
+2112,2026-04-30,C172,Wallet,Accessories,3,770,350,0.05,Chennai,Web
+2113,2026-04-19,C430,Backpack,Accessories,1,1460,670,0.25,Madurai,Mobile App
+2114,2025-11-23,C174,Smart TV,Electronics,1,36350,26990,0.0,Chennai,Mobile App
+2115,2025-11-06,C616,Saree,Apparel,1,3580,1570,0.2,Chennai,Mobile App
+2115,2025-11-06,C616,Wallet,Accessories,2,830,380,0.0,Chennai,Mobile App
+2116,2025-11-15,C216,Headphones,Electronics,4,2480,1740,0.25,Salem,Web
+2116,2025-11-15,C216,Backpack,Accessories,2,1510,770,0.3,Salem,Web
+2117,2025-10-20,C387,Cookware Set,Home & Kitchen,2,2730,1830,0.1,Bengaluru,Web
+2118,2025-11-30,C451,Mixer Grinder,Home & Kitchen,1,4290,2810,0.3,Hyderabad,Web
+2118,2025-11-30,C451,Phone,Electronics,1,20020,14790,0.1,Hyderabad,Web
+2119,2025-11-03,C362,Laptop,Electronics,1,49810,34380,0.3,Madurai,Mobile App
+2119,2025-11-03,C362,Bed Frame,Furniture,1,18390,10170,0.0,Madurai,Mobile App
+2120,2026-08-05,C554,Kurta,Apparel,1,1250,580,0.25,Salem,Mobile App
+2121,2026-03-25,C467,Phone,Electronics,1,19990,14990,0.1,Salem,Mobile App
+2122,2026-04-07,C112,Bluetooth Speaker,Electronics,1,3450,2550,0.25,Kochi,Web
+2122,2026-04-07,C112,Laptop,Electronics,1,49200,36790,0.05, Kochi,Web
+2123,2025-12-13,C097,Power Bank,Electronics,1,1450,1050,0.1,Salem,Web
+2124,2025-11-21,C300,Bluetooth Speaker,Electronics,4,3560,2640,0.2,Madurai,Web
+2124,2025-11-21,C300,Kurta,Apparel,1,1190,490,0.15,Madurai,Web
+2124,2025-11-21,C300,T-Shirt,Apparel,4,680,290,0.1,Madurai,Web
+2125,2025-11-15,C302,Study Table,Furniture,1,6170,3570,0.15,Madurai,Mobile App
+2126,2026-05-02,C391,Bluetooth Speaker,Electronics,1,3610,2650,0.3,Chennai,Web
+2127,2025-12-27,C604,Laptop,Electronics,1,48270,36050,0.0,Trichy,Mobile App
+2128,2026-01-26,C196,Study Table,Furniture,2,5890,3330,0.15,Salem,Mobile App
+2129,2025-10-02,C333,Bookshelf,Furniture,1,4630,2630,0.0,Bengaluru,Web
+2130,2026-05-09,C187,Smartwatch,Electronics,1,8190,6030,0.15,Chennai,Web
+2130,2026-05-09,C187,T-Shirt,Apparel,1,700,330,0.1,Chennai,Web
+2130,2026-05-09,C187,Smart TV,Electronics,1,34190,24960,0.15,Chennai,Web
+2131,2025-12-01,C397,Backpack,Accessories,4,1470,680,0.0,,Web
+2132,2025-12-27,C048,Phone Case,Accessories,1,400,180,0.0,Bengaluru,Mobile App
+2133,2025-10-25,C156,Cookware Set,Home & Kitchen,4,2720,1670,0.25,Bengaluru,Mobile App
+2134,2026-05-17,C313,Tablet,Electronics,1,18660,13520,0.2,Chennai,Mobile App
+2135,2026-06-25,C305,Tablet,Electronics,2,17490,12830,0.25,Salem,Web
+2136,2025-11-27,C438,Cookware Set,Home & Kitchen,2,2790,1740,0.05,Coimbatore,Web
+2137,2025-12-04,C333,Mixer Grinder,Home & Kitchen,1,4200,2800,0.05,Bengaluru,Mobile App
+2137,2025-12-04,C333,Sofa Set,Furniture,1,31130,17960,0.15,Bengaluru,Mobile App
+2138,2026-02-22,C370,Smartwatch,Electronics,2,7860,5510,0.15,Chennai,Web
+2139,2026-05-28,C366,Bluetooth Speaker,Electronics,3,3420,2400,0.25,Madurai,Web
+2140,2026-08-16,C189,Sofa Set,Furniture,1,31060,17920,0.05,Chennai,Web
+2141,2026-08-24,C361,Phone,Electronics,1,19630,13980,0.0,Hyderabad,Mobile App
+2142,2026-07-08,C175,Power Bank,Electronics,1,1450,1080,0.3,Chennai,Mobile App
+2143,2025-11-09,C252,Cookware Set,Home & Kitchen,1,2810,1810,0.05,Bengaluru,Web
+2143,2025-11-09,C252,Laptop Sleeve,Accessories,5,930,450,0.3,Bengaluru,Web
+2143,2025-11-09,C252,Microwave,Home & Kitchen,3,9860,6020,0.1,Bengaluru,Web
+2144,2025-10-08,C503,Belt,Accessories,2,600,280,0.2,Bengaluru,Web
+2144,2025-10-08,C503,Smartwatch,Electronics,1,8190,5940,0.25,Bengaluru,Web
+2145,2026-07-19,C123,Study Table,Furniture,2,6090,3270,0.0,Bengaluru,Web
+2145,2026-07-19,C123,Headphones,Electronics,2,2550,1840,0.1,Bengaluru,Web
+2146,2026-07-09,C620,Phone Case,Accessories,5,390,190,0.1, Hyderabad,Web
+2147,2025-10-14,C451,Smart TV,Electronics,1,34320,25570,0.3,Hyderabad,Mobile App
+2148,2026-04-13,C315,Smart TV,Electronics,1,36190,26300,0.05,Coimbatore,Mobile App
+2148,2026-04-13,C315,Water Purifier,Home & Kitchen,1,12240,8160,0.1,Coimbatore,Mobile App
+2149,2025-11-15,C265,Pressure Cooker,Home & Kitchen,4,1650,1050,0.25,Chennai,Web
+2149,2025-11-15,C265,T-Shirt,Apparel,1,680,300,0.2,Chennai,Web
+2150,2025-09-01,C624,Jacket,Apparel,2,2810,1180,0.3,Chennai,Mobile App
+2150,2025-09-01,C624,Bookshelf,Furniture,3,4560,2470,0.0,Chennai,Mobile App
+2150,01-09-2025,C624,Laptop,Electronics,1,48720,36040,0.1,Chennai,Mobile App

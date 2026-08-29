@@ -1,0 +1,9 @@
+Issue Found,Rows Affected,Rule Applied,Rationale
+Exact duplicate rows,41,Removed,Identical Order ID + Product + Date = double entry from the source export
+Inconsistent Region casing / whitespace,62,TRIM + PROPER applied,Prevented duplicate region groups splitting GROUP BY totals
+Blank Region,28,"Set to ""Unknown""",Dropping these rows would understate national revenue totals
+Mixed date formats (DD-MM-YYYY),20,Parsed and normalised to YYYY-MM-DD,Text-format dates break chronological sorting and date logic
+Negative Quantity,5,Excluded and flagged,Likely untagged returns; returns are out of scope for this brief
+Order Date later than today,3,Excluded,Impossible values - cannot represent a completed sale
+Price outliers (10x product median),2,Corrected to product median price,"Confirmed data-entry error, not a premium SKU variant"
+NET RESULT,49,1626 rows in -> 1577 rows out,3.0% of records removed
